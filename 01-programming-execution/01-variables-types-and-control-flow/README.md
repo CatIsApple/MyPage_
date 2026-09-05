@@ -1,10 +1,12 @@
+<sub><a href="../../">MyPage_</a> / <a href="../">01 . Programming &amp; Execution (프로그래밍과 실행)</a> / Variables, Types &amp; Control Flow (변수·자료형·제어문)</sub>
+
 # Variables, Types & Control Flow (변수·자료형·제어문)
 
-<img src="../../assets/categories/notion-tahoe-light-16x10.jpg" alt="Variables, Types &amp; Control Flow (변수·자료형·제어문)" width="100%">
+<img src="../../assets/categories/01-programming-execution.jpg" alt="Variables, Types &amp; Control Flow (변수·자료형·제어문)" width="100%">
 
-<sub>01 . PROGRAMMING & EXECUTION · 0 POSTS</sub>
+<sub>SUBCATEGORY 01 · 0 ARTICLES</sub>
 
-## Posts
+## Articles
 
 아직 공개된 글이 없습니다.
 

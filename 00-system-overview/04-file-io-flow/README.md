@@ -1,10 +1,12 @@
+<sub><a href="../../">MyPage_</a> / <a href="../">00 . System Overview (시스템 전체 흐름)</a> / File I/O Flow (파일 입출력 전체 흐름)</sub>
+
 # File I/O Flow (파일 입출력 전체 흐름)
 
-<img src="../../assets/categories/notion-tahoe-light-16x10.jpg" alt="File I/O Flow (파일 입출력 전체 흐름)" width="100%">
+<img src="../../assets/categories/00-system-overview.jpg" alt="File I/O Flow (파일 입출력 전체 흐름)" width="100%">
 
-<sub>00 . SYSTEM OVERVIEW · 0 POSTS</sub>
+<sub>SUBCATEGORY 04 · 0 ARTICLES</sub>
 
-## Posts
+## Articles
 
 아직 공개된 글이 없습니다.
 

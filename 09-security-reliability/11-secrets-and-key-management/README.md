@@ -1,10 +1,12 @@
+<sub><a href="../../">MyPage_</a> / <a href="../">09 . Security &amp; Reliability (보안과 안정성)</a> / Secrets &amp; Key Management (비밀·키 관리)</sub>
+
 # Secrets & Key Management (비밀·키 관리)
 
-<img src="../../assets/categories/notion-tahoe-light-16x10.jpg" alt="Secrets &amp; Key Management (비밀·키 관리)" width="100%">
+<img src="../../assets/categories/09-security-reliability.jpg" alt="Secrets &amp; Key Management (비밀·키 관리)" width="100%">
 
-<sub>09 . SECURITY & RELIABILITY · 0 POSTS</sub>
+<sub>SUBCATEGORY 11 · 0 ARTICLES</sub>
 
-## Posts
+## Articles
 
 아직 공개된 글이 없습니다.
 

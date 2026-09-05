@@ -1,10 +1,12 @@
+<sub><a href="../../">MyPage_</a> / <a href="../">05 . Computer Networks (컴퓨터 네트워크)</a> / IP &amp; Routing (IP·라우팅)</sub>
+
 # IP & Routing (IP·라우팅)
 
-<img src="../../assets/categories/notion-tahoe-light-16x10.jpg" alt="IP &amp; Routing (IP·라우팅)" width="100%">
+<img src="../../assets/categories/05-computer-networks.jpg" alt="IP &amp; Routing (IP·라우팅)" width="100%">
 
-<sub>05 . COMPUTER NETWORKS · 0 POSTS</sub>
+<sub>SUBCATEGORY 02 · 0 ARTICLES</sub>
 
-## Posts
+## Articles
 
 아직 공개된 글이 없습니다.
 

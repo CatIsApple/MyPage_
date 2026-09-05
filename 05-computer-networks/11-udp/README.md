@@ -1,10 +1,12 @@
+<sub><a href="../../">MyPage_</a> / <a href="../">05 . Computer Networks (컴퓨터 네트워크)</a> / UDP (사용자 데이터그램 프로토콜)</sub>
+
 # UDP (사용자 데이터그램 프로토콜)
 
-<img src="../../assets/categories/notion-tahoe-light-16x10.jpg" alt="UDP (사용자 데이터그램 프로토콜)" width="100%">
+<img src="../../assets/categories/05-computer-networks.jpg" alt="UDP (사용자 데이터그램 프로토콜)" width="100%">
 
-<sub>05 . COMPUTER NETWORKS · 0 POSTS</sub>
+<sub>SUBCATEGORY 11 · 0 ARTICLES</sub>
 
-## Posts
+## Articles
 
 아직 공개된 글이 없습니다.
 

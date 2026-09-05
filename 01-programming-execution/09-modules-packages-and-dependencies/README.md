@@ -1,10 +1,12 @@
+<sub><a href="../../">MyPage_</a> / <a href="../">01 . Programming &amp; Execution (프로그래밍과 실행)</a> / Modules, Packages &amp; Dependencies (모듈·패키지·의존성)</sub>
+
 # Modules, Packages & Dependencies (모듈·패키지·의존성)
 
-<img src="../../assets/categories/notion-tahoe-light-16x10.jpg" alt="Modules, Packages &amp; Dependencies (모듈·패키지·의존성)" width="100%">
+<img src="../../assets/categories/01-programming-execution.jpg" alt="Modules, Packages &amp; Dependencies (모듈·패키지·의존성)" width="100%">
 
-<sub>01 . PROGRAMMING & EXECUTION · 0 POSTS</sub>
+<sub>SUBCATEGORY 09 · 0 ARTICLES</sub>
 
-## Posts
+## Articles
 
 아직 공개된 글이 없습니다.
 

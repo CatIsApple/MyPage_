@@ -1,10 +1,12 @@
+<sub><a href="../../">MyPage_</a> / <a href="../">06 . Storage &amp; Databases (저장장치와 데이터베이스)</a> / Indexes (인덱스)</sub>
+
 # Indexes (인덱스)
 
-<img src="../../assets/categories/notion-tahoe-light-16x10.jpg" alt="Indexes (인덱스)" width="100%">
+<img src="../../assets/categories/06-storage-databases.jpg" alt="Indexes (인덱스)" width="100%">
 
-<sub>06 . STORAGE & DATABASES · 0 POSTS</sub>
+<sub>SUBCATEGORY 03 · 0 ARTICLES</sub>
 
-## Posts
+## Articles
 
 아직 공개된 글이 없습니다.
 

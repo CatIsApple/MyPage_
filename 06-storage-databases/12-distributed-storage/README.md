@@ -1,10 +1,12 @@
+<sub><a href="../../">MyPage_</a> / <a href="../">06 . Storage &amp; Databases (저장장치와 데이터베이스)</a> / Distributed Storage (분산 데이터 저장)</sub>
+
 # Distributed Storage (분산 데이터 저장)
 
-<img src="../../assets/categories/notion-tahoe-light-16x10.jpg" alt="Distributed Storage (분산 데이터 저장)" width="100%">
+<img src="../../assets/categories/06-storage-databases.jpg" alt="Distributed Storage (분산 데이터 저장)" width="100%">
 
-<sub>06 . STORAGE & DATABASES · 0 POSTS</sub>
+<sub>SUBCATEGORY 12 · 0 ARTICLES</sub>
 
-## Posts
+## Articles
 
 아직 공개된 글이 없습니다.
 

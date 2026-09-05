@@ -1,10 +1,12 @@
+<sub><a href="../../">MyPage_</a> / <a href="../">09 . Security &amp; Reliability (보안과 안정성)</a> / Input Validation &amp; Injection (입력 검증·인젝션)</sub>
+
 # Input Validation & Injection (입력 검증·인젝션)
 
-<img src="../../assets/categories/notion-tahoe-light-16x10.jpg" alt="Input Validation &amp; Injection (입력 검증·인젝션)" width="100%">
+<img src="../../assets/categories/09-security-reliability.jpg" alt="Input Validation &amp; Injection (입력 검증·인젝션)" width="100%">
 
-<sub>09 . SECURITY & RELIABILITY · 0 POSTS</sub>
+<sub>SUBCATEGORY 07 · 0 ARTICLES</sub>
 
-## Posts
+## Articles
 
 아직 공개된 글이 없습니다.
 

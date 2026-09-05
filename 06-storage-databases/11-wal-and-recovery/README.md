@@ -1,10 +1,12 @@
+<sub><a href="../../">MyPage_</a> / <a href="../">06 . Storage &amp; Databases (저장장치와 데이터베이스)</a> / WAL &amp; Recovery (WAL·복구)</sub>
+
 # WAL & Recovery (WAL·복구)
 
-<img src="../../assets/categories/notion-tahoe-light-16x10.jpg" alt="WAL &amp; Recovery (WAL·복구)" width="100%">
+<img src="../../assets/categories/06-storage-databases.jpg" alt="WAL &amp; Recovery (WAL·복구)" width="100%">
 
-<sub>06 . STORAGE & DATABASES · 0 POSTS</sub>
+<sub>SUBCATEGORY 11 · 0 ARTICLES</sub>
 
-## Posts
+## Articles
 
 아직 공개된 글이 없습니다.
 

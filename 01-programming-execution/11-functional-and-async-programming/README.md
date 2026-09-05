@@ -1,10 +1,12 @@
+<sub><a href="../../">MyPage_</a> / <a href="../">01 . Programming &amp; Execution (프로그래밍과 실행)</a> / Functional &amp; Async Programming (함수형·비동기 프로그래밍)</sub>
+
 # Functional & Async Programming (함수형·비동기 프로그래밍)
 
-<img src="../../assets/categories/notion-tahoe-light-16x10.jpg" alt="Functional &amp; Async Programming (함수형·비동기 프로그래밍)" width="100%">
+<img src="../../assets/categories/01-programming-execution.jpg" alt="Functional &amp; Async Programming (함수형·비동기 프로그래밍)" width="100%">
 
-<sub>01 . PROGRAMMING & EXECUTION · 0 POSTS</sub>
+<sub>SUBCATEGORY 11 · 0 ARTICLES</sub>
 
-## Posts
+## Articles
 
 아직 공개된 글이 없습니다.
 

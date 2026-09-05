@@ -1,20 +1,22 @@
+<sub><a href="../../">MyPage_</a> / <a href="../">00 . System Overview (시스템 전체 흐름)</a> / Program Execution Flow (프로그램 실행 전체 흐름)</sub>
+
 # Program Execution Flow (프로그램 실행 전체 흐름)
 
-<img src="../../assets/categories/notion-tahoe-light-16x10.jpg" alt="Program Execution Flow (프로그램 실행 전체 흐름)" width="100%">
+<img src="../../assets/categories/00-system-overview.jpg" alt="Program Execution Flow (프로그램 실행 전체 흐름)" width="100%">
 
-<sub>00 . SYSTEM OVERVIEW · 1 POST</sub>
+<sub>SUBCATEGORY 02 · 1 ARTICLE</sub>
 
-## Posts
+## Articles
 
 <table>
   <tr>
     <td rowspan="2" width="40%" valign="top">
       <a href="./compilation-interpretation/">
-        <img src="../../assets/articles/compilation-interpretation/compilation-interpretation-cover.jpg" alt="Compilation &amp; Interpretation (컴파일과 해석)" width="100%">
+        <img src="../../assets/articles/compilation-interpretation/cover.jpg" alt="Compilation &amp; Interpretation (컴파일과 해석)" width="100%">
       </a>
     </td>
     <td width="60%" valign="top">
-      <sub>2026.09.05</sub><br>
+      <sub>PROGRAM EXECUTION FLOW · 2026.09.05</sub><br>
       <strong>Compilation &amp; Interpretation (컴파일과 해석)</strong><br>
       컴파일과 인터프리테이션의 차이부터 AOT, JIT, 현대 언어 실행 방식까지 정리했다.
     </td>

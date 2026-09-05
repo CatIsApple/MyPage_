@@ -1,10 +1,12 @@
+<sub><a href="../../">MyPage_</a> / <a href="../">05 . Computer Networks (컴퓨터 네트워크)</a> / Ethernet &amp; LAN (이더넷·LAN)</sub>
+
 # Ethernet & LAN (이더넷·LAN)
 
-<img src="../../assets/categories/notion-tahoe-light-16x10.jpg" alt="Ethernet &amp; LAN (이더넷·LAN)" width="100%">
+<img src="../../assets/categories/05-computer-networks.jpg" alt="Ethernet &amp; LAN (이더넷·LAN)" width="100%">
 
-<sub>05 . COMPUTER NETWORKS · 0 POSTS</sub>
+<sub>SUBCATEGORY 08 · 0 ARTICLES</sub>
 
-## Posts
+## Articles
 
 아직 공개된 글이 없습니다.
 

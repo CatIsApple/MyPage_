@@ -1,10 +1,12 @@
+<sub><a href="../../">MyPage_</a> / <a href="../">02 . Data Structures &amp; Algorithms (자료구조와 알고리즘)</a> / Algorithm Basics (알고리즘 기본)</sub>
+
 # Algorithm Basics (알고리즘 기본)
 
-<img src="../../assets/categories/notion-tahoe-light-16x10.jpg" alt="Algorithm Basics (알고리즘 기본)" width="100%">
+<img src="../../assets/categories/02-data-structures-algorithms.jpg" alt="Algorithm Basics (알고리즘 기본)" width="100%">
 
-<sub>02 . DATA STRUCTURES & ALGORITHMS · 0 POSTS</sub>
+<sub>SUBCATEGORY 06 · 0 ARTICLES</sub>
 
-## Posts
+## Articles
 
 아직 공개된 글이 없습니다.
 

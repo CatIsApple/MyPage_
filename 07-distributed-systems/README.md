@@ -1,99 +1,80 @@
-# 07 · Distributed Systems (분산 시스템과 시스템 설계)
+# 07 . Distributed Systems (분산 시스템과 시스템 설계)
 
-<img src="../assets/categories/mac-background.jpg" alt="07 · Distributed Systems (분산 시스템과 시스템 설계)" width="100%">
+<img src="../assets/categories/notion-tahoe-light-16x10.jpg" alt="07 . Distributed Systems (분산 시스템과 시스템 설계)" width="100%">
 
-<sub>13 TOPICS · 0 POSTS</sub>
+<sub>13 SUBCATEGORIES · 0 POSTS</sub>
 
-## Topics
+## Subcategories
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub>TOPIC 01 · 0 POSTS</sub><br>
-      <strong><a href="./distributed-systems-basics/">Distributed Systems Basics</a></strong><br>
-      분산 시스템 기본
+      <sub>SUBCATEGORY 01 · 0 POSTS</sub><br>
+      <strong><a href="./01-distributed-systems-basics/">Distributed Systems Basics (분산 시스템 기본)</a></strong>
     </td>
     <td width="50%" valign="top">
-      <sub>TOPIC 02 · 0 POSTS</sub><br>
-      <strong><a href="./communication-and-rpc/">Communication &amp; RPC</a></strong><br>
-      통신·RPC
+      <sub>SUBCATEGORY 02 · 0 POSTS</sub><br>
+      <strong><a href="./02-communication-and-rpc/">Communication &amp; RPC (통신·RPC)</a></strong>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>TOPIC 03 · 0 POSTS</sub><br>
-      <strong><a href="./retries-and-idempotency/">Retries &amp; Idempotency</a></strong><br>
-      재시도·멱등성
+      <sub>SUBCATEGORY 03 · 0 POSTS</sub><br>
+      <strong><a href="./03-retries-and-idempotency/">Retries &amp; Idempotency (재시도·멱등성)</a></strong>
     </td>
     <td width="50%" valign="top">
-      <sub>TOPIC 04 · 0 POSTS</sub><br>
-      <strong><a href="./time-and-ordering/">Time &amp; Ordering</a></strong><br>
-      시간·순서
+      <sub>SUBCATEGORY 04 · 0 POSTS</sub><br>
+      <strong><a href="./04-time-and-ordering/">Time &amp; Ordering (시간·순서)</a></strong>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>TOPIC 05 · 0 POSTS</sub><br>
-      <strong><a href="./consistency-and-cap/">Consistency &amp; CAP</a></strong><br>
-      일관성·CAP
+      <sub>SUBCATEGORY 05 · 0 POSTS</sub><br>
+      <strong><a href="./05-consistency-and-cap/">Consistency &amp; CAP (일관성·CAP)</a></strong>
     </td>
     <td width="50%" valign="top">
-      <sub>TOPIC 06 · 0 POSTS</sub><br>
-      <strong><a href="./replication/">Replication</a></strong><br>
-      복제
+      <sub>SUBCATEGORY 06 · 0 POSTS</sub><br>
+      <strong><a href="./06-replication/">Replication (복제)</a></strong>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>TOPIC 07 · 0 POSTS</sub><br>
-      <strong><a href="./consensus-and-leader-election/">Consensus &amp; Leader Election</a></strong><br>
-      합의·리더 선출
+      <sub>SUBCATEGORY 07 · 0 POSTS</sub><br>
+      <strong><a href="./07-consensus-and-leader-election/">Consensus &amp; Leader Election (합의·리더 선출)</a></strong>
     </td>
     <td width="50%" valign="top">
-      <sub>TOPIC 08 · 0 POSTS</sub><br>
-      <strong><a href="./partitioning-and-sharding/">Partitioning &amp; Sharding</a></strong><br>
-      파티셔닝·샤딩
+      <sub>SUBCATEGORY 08 · 0 POSTS</sub><br>
+      <strong><a href="./08-partitioning-and-sharding/">Partitioning &amp; Sharding (파티셔닝·샤딩)</a></strong>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>TOPIC 09 · 0 POSTS</sub><br>
-      <strong><a href="./message-queues-and-streams/">Message Queues &amp; Streams</a></strong><br>
-      메시지 큐·스트림
+      <sub>SUBCATEGORY 09 · 0 POSTS</sub><br>
+      <strong><a href="./09-message-queues-and-streams/">Message Queues &amp; Streams (메시지 큐·스트림)</a></strong>
     </td>
     <td width="50%" valign="top">
-      <sub>TOPIC 10 · 0 POSTS</sub><br>
-      <strong><a href="./caching/">Caching</a></strong><br>
-      캐시
+      <sub>SUBCATEGORY 10 · 0 POSTS</sub><br>
+      <strong><a href="./10-caching/">Caching (캐시)</a></strong>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>TOPIC 11 · 0 POSTS</sub><br>
-      <strong><a href="./service-architecture/">Service Architecture</a></strong><br>
-      서비스 구조
+      <sub>SUBCATEGORY 11 · 0 POSTS</sub><br>
+      <strong><a href="./11-service-architecture/">Service Architecture (서비스 구조)</a></strong>
     </td>
     <td width="50%" valign="top">
-      <sub>TOPIC 12 · 0 POSTS</sub><br>
-      <strong><a href="./distributed-transactions/">Distributed Transactions</a></strong><br>
-      분산 트랜잭션
+      <sub>SUBCATEGORY 12 · 0 POSTS</sub><br>
+      <strong><a href="./12-distributed-transactions/">Distributed Transactions (분산 트랜잭션)</a></strong>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>TOPIC 13 · 0 POSTS</sub><br>
-      <strong><a href="./scalability-and-resilience/">Scalability &amp; Resilience</a></strong><br>
-      확장성·복원력
+      <sub>SUBCATEGORY 13 · 0 POSTS</sub><br>
+      <strong><a href="./13-scalability-and-resilience/">Scalability &amp; Resilience (확장성·복원력)</a></strong>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
-
-## Posts
-
-아직 공개한 글이 없습니다.
 
 ---
 
 [← MyPage_로 돌아가기](../)
-

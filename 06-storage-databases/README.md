@@ -1,91 +1,74 @@
-# 06 · Storage & Databases (저장장치와 데이터베이스)
+# 06 . Storage & Databases (저장장치와 데이터베이스)
 
-<img src="../assets/categories/mac-background.jpg" alt="06 · Storage &amp; Databases (저장장치와 데이터베이스)" width="100%">
+<img src="../assets/categories/notion-tahoe-light-16x10.jpg" alt="06 . Storage &amp; Databases (저장장치와 데이터베이스)" width="100%">
 
-<sub>12 TOPICS · 0 POSTS</sub>
+<sub>12 SUBCATEGORIES · 0 POSTS</sub>
 
-## Topics
+## Subcategories
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub>TOPIC 01 · 0 POSTS</sub><br>
-      <strong><a href="./relational-databases/">Relational Databases</a></strong><br>
-      관계형 데이터베이스
+      <sub>SUBCATEGORY 01 · 0 POSTS</sub><br>
+      <strong><a href="./01-relational-databases/">Relational Databases (관계형 데이터베이스)</a></strong>
     </td>
     <td width="50%" valign="top">
-      <sub>TOPIC 02 · 0 POSTS</sub><br>
-      <strong><a href="./sql/">SQL</a></strong><br>
-      구조화 질의 언어
+      <sub>SUBCATEGORY 02 · 0 POSTS</sub><br>
+      <strong><a href="./02-sql/">SQL (구조화 질의 언어)</a></strong>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>TOPIC 03 · 0 POSTS</sub><br>
-      <strong><a href="./indexes/">Indexes</a></strong><br>
-      인덱스
+      <sub>SUBCATEGORY 03 · 0 POSTS</sub><br>
+      <strong><a href="./03-indexes/">Indexes (인덱스)</a></strong>
     </td>
     <td width="50%" valign="top">
-      <sub>TOPIC 04 · 0 POSTS</sub><br>
-      <strong><a href="./normalization/">Normalization</a></strong><br>
-      정규화
+      <sub>SUBCATEGORY 04 · 0 POSTS</sub><br>
+      <strong><a href="./04-normalization/">Normalization (정규화)</a></strong>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>TOPIC 05 · 0 POSTS</sub><br>
-      <strong><a href="./transactions/">Transactions</a></strong><br>
-      트랜잭션
+      <sub>SUBCATEGORY 05 · 0 POSTS</sub><br>
+      <strong><a href="./05-transactions/">Transactions (트랜잭션)</a></strong>
     </td>
     <td width="50%" valign="top">
-      <sub>TOPIC 06 · 0 POSTS</sub><br>
-      <strong><a href="./nosql/">NoSQL</a></strong><br>
-      비관계형 데이터베이스
+      <sub>SUBCATEGORY 06 · 0 POSTS</sub><br>
+      <strong><a href="./06-nosql/">NoSQL (비관계형 데이터베이스)</a></strong>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>TOPIC 07 · 0 POSTS</sub><br>
-      <strong><a href="./storage-engines-and-pages/">Storage Engines &amp; Pages</a></strong><br>
-      저장 엔진과 페이지
+      <sub>SUBCATEGORY 07 · 0 POSTS</sub><br>
+      <strong><a href="./07-storage-engines-and-pages/">Storage Engines &amp; Pages (저장 엔진과 페이지)</a></strong>
     </td>
     <td width="50%" valign="top">
-      <sub>TOPIC 08 · 0 POSTS</sub><br>
-      <strong><a href="./data-modeling/">Data Modeling</a></strong><br>
-      데이터 모델링
+      <sub>SUBCATEGORY 08 · 0 POSTS</sub><br>
+      <strong><a href="./08-data-modeling/">Data Modeling (데이터 모델링)</a></strong>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>TOPIC 09 · 0 POSTS</sub><br>
-      <strong><a href="./query-processing-and-optimization/">Query Processing &amp; Optimization</a></strong><br>
-      쿼리 처리와 최적화
+      <sub>SUBCATEGORY 09 · 0 POSTS</sub><br>
+      <strong><a href="./09-query-processing-and-optimization/">Query Processing &amp; Optimization (쿼리 처리와 최적화)</a></strong>
     </td>
     <td width="50%" valign="top">
-      <sub>TOPIC 10 · 0 POSTS</sub><br>
-      <strong><a href="./concurrency-control-and-mvcc/">Concurrency Control &amp; MVCC</a></strong><br>
-      동시성 제어·MVCC
+      <sub>SUBCATEGORY 10 · 0 POSTS</sub><br>
+      <strong><a href="./10-concurrency-control-and-mvcc/">Concurrency Control &amp; MVCC (동시성 제어·MVCC)</a></strong>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>TOPIC 11 · 0 POSTS</sub><br>
-      <strong><a href="./wal-and-recovery/">WAL &amp; Recovery</a></strong><br>
-      WAL·복구
+      <sub>SUBCATEGORY 11 · 0 POSTS</sub><br>
+      <strong><a href="./11-wal-and-recovery/">WAL &amp; Recovery (WAL·복구)</a></strong>
     </td>
     <td width="50%" valign="top">
-      <sub>TOPIC 12 · 0 POSTS</sub><br>
-      <strong><a href="./distributed-storage/">Distributed Storage</a></strong><br>
-      분산 데이터 저장
+      <sub>SUBCATEGORY 12 · 0 POSTS</sub><br>
+      <strong><a href="./12-distributed-storage/">Distributed Storage (분산 데이터 저장)</a></strong>
     </td>
   </tr>
 </table>
 
-## Posts
-
-아직 공개한 글이 없습니다.
-
 ---
 
 [← MyPage_로 돌아가기](../)
-

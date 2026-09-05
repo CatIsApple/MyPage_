@@ -1,6 +1,6 @@
 # Compilation & Interpretation (컴파일과 해석)
 
-<sub>PROGRAM EXECUTION FLOW · 2026.09.05</sub>
+<sub>SYSTEM OVERVIEW · PROGRAM EXECUTION FLOW · 2026.09.05</sub>
 
 <img src="../../../assets/articles/compilation-interpretation/cover.jpg" alt="Compilation & Interpretation (컴파일과 해석)" width="100%">
 

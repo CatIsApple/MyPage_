@@ -1,15 +1,49 @@
 # 00 · System Overview (시스템 전체 흐름)
 
-<img src="../assets/categories/mac-background.jpg" alt="System Overview" width="100%">
+<img src="../assets/categories/mac-background.jpg" alt="00 · System Overview (시스템 전체 흐름)" width="100%">
+
+<sub>6 TOPICS · 1 POST</sub>
 
 ## Topics
 
-- [Concurrent Execution Flow (동시 실행 전체 흐름)](./concurrent-execution-flow/)
-- [Failure & Recovery Flow (장애와 복구 전체 흐름)](./failure-recovery-flow/)
-- [File I/O Flow (파일 입출력 전체 흐름)](./file-io-flow/)
-- [Program Execution Flow (프로그램 실행 전체 흐름)](./program-execution-flow/)
-- [System Components (시스템 구성 요소)](./system-components/)
-- [Web Request Flow (웹 요청 전체 흐름)](./web-request-flow/)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>TOPIC 01 · 0 POSTS</sub><br>
+      <strong><a href="./system-components/">System Components</a></strong><br>
+      시스템 구성 요소
+    </td>
+    <td width="50%" valign="top">
+      <sub>TOPIC 02 · 1 POST</sub><br>
+      <strong><a href="./program-execution-flow/">Program Execution Flow</a></strong><br>
+      프로그램 실행 전체 흐름
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>TOPIC 03 · 0 POSTS</sub><br>
+      <strong><a href="./web-request-flow/">Web Request Flow</a></strong><br>
+      웹 요청 전체 흐름
+    </td>
+    <td width="50%" valign="top">
+      <sub>TOPIC 04 · 0 POSTS</sub><br>
+      <strong><a href="./file-io-flow/">File I/O Flow</a></strong><br>
+      파일 입출력 전체 흐름
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>TOPIC 05 · 0 POSTS</sub><br>
+      <strong><a href="./concurrent-execution-flow/">Concurrent Execution Flow</a></strong><br>
+      동시 실행 전체 흐름
+    </td>
+    <td width="50%" valign="top">
+      <sub>TOPIC 06 · 0 POSTS</sub><br>
+      <strong><a href="./failure-and-recovery-flow/">Failure &amp; Recovery Flow</a></strong><br>
+      장애와 복구 전체 흐름
+    </td>
+  </tr>
+</table>
 
 ## Posts
 
@@ -17,7 +51,7 @@
   <tr>
     <td rowspan="2" width="40%" valign="top">
       <a href="./program-execution-flow/compilation-interpretation/">
-        <img src="../assets/articles/compilation-interpretation/cover.jpg" alt="Compilation & Interpretation (컴파일과 해석)" width="100%">
+        <img src="../assets/articles/compilation-interpretation/cover.jpg" alt="Compilation &amp; Interpretation (컴파일과 해석)" width="100%">
       </a>
     </td>
     <td width="60%" valign="top">
@@ -35,4 +69,5 @@
 
 ---
 
-[← MyPage_ 홈으로](../)
+[← MyPage_로 돌아가기](../)
+

@@ -2,14 +2,14 @@
 
 # Wireless Networking (무선 네트워크)
 
-<img src="../../assets/categories/05-computer-networks.jpg" alt="Wireless Networking (무선 네트워크)" width="100%">
+<img src="../../assets/subcategories/05-computer-networks/01-wireless-networking.jpg" alt="Wireless Networking (무선 네트워크)" width="100%">
 
-<sub>SUBCATEGORY 01 · 0 ARTICLES</sub>
+<sub>SUBCATEGORY (하위 카테고리) 01 · 0 ARTICLES (글)</sub>
 
-## Articles
+## Articles (글)
 
-아직 공개된 글이 없습니다.
+No Articles Yet (아직 공개된 글이 없습니다.)
 
 ---
 
-[← Computer Networks로 돌아가기](../) · [MyPage_](../../)
+[← Back to Computer Networks (컴퓨터 네트워크로 돌아가기)](../) · [MyPage_](../../)

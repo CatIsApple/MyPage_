@@ -2,14 +2,14 @@
 
 # Functional & Async Programming (함수형·비동기 프로그래밍)
 
-<img src="../../assets/categories/01-programming-execution.jpg" alt="Functional &amp; Async Programming (함수형·비동기 프로그래밍)" width="100%">
+<img src="../../assets/subcategories/01-programming-execution/11-functional-and-async-programming.jpg" alt="Functional &amp; Async Programming (함수형·비동기 프로그래밍)" width="100%">
 
-<sub>SUBCATEGORY 11 · 0 ARTICLES</sub>
+<sub>SUBCATEGORY (하위 카테고리) 11 · 0 ARTICLES (글)</sub>
 
-## Articles
+## Articles (글)
 
-아직 공개된 글이 없습니다.
+No Articles Yet (아직 공개된 글이 없습니다.)
 
 ---
 
-[← Programming & Execution로 돌아가기](../) · [MyPage_](../../)
+[← Back to Programming & Execution (프로그래밍과 실행으로 돌아가기)](../) · [MyPage_](../../)

@@ -2,14 +2,14 @@
 
 # Type System (타입 시스템)
 
-<img src="../../assets/categories/01-programming-execution.jpg" alt="Type System (타입 시스템)" width="100%">
+<img src="../../assets/subcategories/01-programming-execution/08-type-system.jpg" alt="Type System (타입 시스템)" width="100%">
 
-<sub>SUBCATEGORY 08 · 0 ARTICLES</sub>
+<sub>SUBCATEGORY (하위 카테고리) 08 · 0 ARTICLES (글)</sub>
 
-## Articles
+## Articles (글)
 
-아직 공개된 글이 없습니다.
+No Articles Yet (아직 공개된 글이 없습니다.)
 
 ---
 
-[← Programming & Execution로 돌아가기](../) · [MyPage_](../../)
+[← Back to Programming & Execution (프로그래밍과 실행으로 돌아가기)](../) · [MyPage_](../../)

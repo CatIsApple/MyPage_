@@ -2,14 +2,14 @@
 
 # Sorting & Searching (정렬·탐색)
 
-<img src="../../assets/categories/02-data-structures-algorithms.jpg" alt="Sorting &amp; Searching (정렬·탐색)" width="100%">
+<img src="../../assets/subcategories/02-data-structures-algorithms/04-sorting-and-searching.jpg" alt="Sorting &amp; Searching (정렬·탐색)" width="100%">
 
-<sub>SUBCATEGORY 04 · 0 ARTICLES</sub>
+<sub>SUBCATEGORY (하위 카테고리) 04 · 0 ARTICLES (글)</sub>
 
-## Articles
+## Articles (글)
 
-아직 공개된 글이 없습니다.
+No Articles Yet (아직 공개된 글이 없습니다.)
 
 ---
 
-[← Data Structures & Algorithms로 돌아가기](../) · [MyPage_](../../)
+[← Back to Data Structures & Algorithms (자료구조와 알고리즘으로 돌아가기)](../) · [MyPage_](../../)

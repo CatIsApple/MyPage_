@@ -2,14 +2,14 @@
 
 # Web Request Flow (웹 요청 전체 흐름)
 
-<img src="../../assets/categories/00-system-overview.jpg" alt="Web Request Flow (웹 요청 전체 흐름)" width="100%">
+<img src="../../assets/subcategories/00-system-overview/03-web-request-flow.jpg" alt="Web Request Flow (웹 요청 전체 흐름)" width="100%">
 
-<sub>SUBCATEGORY 03 · 0 ARTICLES</sub>
+<sub>SUBCATEGORY (하위 카테고리) 03 · 0 ARTICLES (글)</sub>
 
-## Articles
+## Articles (글)
 
-아직 공개된 글이 없습니다.
+No Articles Yet (아직 공개된 글이 없습니다.)
 
 ---
 
-[← System Overview로 돌아가기](../) · [MyPage_](../../)
+[← Back to System Overview (시스템 전체 흐름으로 돌아가기)](../) · [MyPage_](../../)

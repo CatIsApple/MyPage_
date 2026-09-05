@@ -2,14 +2,14 @@
 
 # Authentication (인증)
 
-<img src="../../assets/categories/09-security-reliability.jpg" alt="Authentication (인증)" width="100%">
+<img src="../../assets/subcategories/09-security-reliability/02-authentication.jpg" alt="Authentication (인증)" width="100%">
 
-<sub>SUBCATEGORY 02 · 0 ARTICLES</sub>
+<sub>SUBCATEGORY (하위 카테고리) 02 · 0 ARTICLES (글)</sub>
 
-## Articles
+## Articles (글)
 
-아직 공개된 글이 없습니다.
+No Articles Yet (아직 공개된 글이 없습니다.)
 
 ---
 
-[← Security & Reliability로 돌아가기](../) · [MyPage_](../../)
+[← Back to Security & Reliability (보안과 안정성으로 돌아가기)](../) · [MyPage_](../../)

@@ -2,14 +2,14 @@
 
 # Process (프로세스)
 
-<img src="../../assets/categories/04-operating-systems.jpg" alt="Process (프로세스)" width="100%">
+<img src="../../assets/subcategories/04-operating-systems/02-process.jpg" alt="Process (프로세스)" width="100%">
 
-<sub>SUBCATEGORY 02 · 0 ARTICLES</sub>
+<sub>SUBCATEGORY (하위 카테고리) 02 · 0 ARTICLES (글)</sub>
 
-## Articles
+## Articles (글)
 
-아직 공개된 글이 없습니다.
+No Articles Yet (아직 공개된 글이 없습니다.)
 
 ---
 
-[← Operating Systems로 돌아가기](../) · [MyPage_](../../)
+[← Back to Operating Systems (운영체제로 돌아가기)](../) · [MyPage_](../../)

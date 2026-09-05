@@ -2,14 +2,14 @@
 
 # Virtual Memory (가상 메모리)
 
-<img src="../../assets/categories/04-operating-systems.jpg" alt="Virtual Memory (가상 메모리)" width="100%">
+<img src="../../assets/subcategories/04-operating-systems/05-virtual-memory.jpg" alt="Virtual Memory (가상 메모리)" width="100%">
 
-<sub>SUBCATEGORY 05 · 0 ARTICLES</sub>
+<sub>SUBCATEGORY (하위 카테고리) 05 · 0 ARTICLES (글)</sub>
 
-## Articles
+## Articles (글)
 
-아직 공개된 글이 없습니다.
+No Articles Yet (아직 공개된 글이 없습니다.)
 
 ---
 
-[← Operating Systems로 돌아가기](../) · [MyPage_](../../)
+[← Back to Operating Systems (운영체제로 돌아가기)](../) · [MyPage_](../../)

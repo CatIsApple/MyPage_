@@ -2,14 +2,14 @@
 
 # Arrays & Linked Lists (배열·연결 리스트)
 
-<img src="../../assets/categories/02-data-structures-algorithms.jpg" alt="Arrays &amp; Linked Lists (배열·연결 리스트)" width="100%">
+<img src="../../assets/subcategories/02-data-structures-algorithms/01-arrays-and-linked-lists.jpg" alt="Arrays &amp; Linked Lists (배열·연결 리스트)" width="100%">
 
-<sub>SUBCATEGORY 01 · 0 ARTICLES</sub>
+<sub>SUBCATEGORY (하위 카테고리) 01 · 0 ARTICLES (글)</sub>
 
-## Articles
+## Articles (글)
 
-아직 공개된 글이 없습니다.
+No Articles Yet (아직 공개된 글이 없습니다.)
 
 ---
 
-[← Data Structures & Algorithms로 돌아가기](../) · [MyPage_](../../)
+[← Back to Data Structures & Algorithms (자료구조와 알고리즘으로 돌아가기)](../) · [MyPage_](../../)

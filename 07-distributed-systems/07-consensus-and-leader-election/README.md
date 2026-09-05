@@ -2,14 +2,14 @@
 
 # Consensus & Leader Election (합의·리더 선출)
 
-<img src="../../assets/categories/07-distributed-systems.jpg" alt="Consensus &amp; Leader Election (합의·리더 선출)" width="100%">
+<img src="../../assets/subcategories/07-distributed-systems/07-consensus-and-leader-election.jpg" alt="Consensus &amp; Leader Election (합의·리더 선출)" width="100%">
 
-<sub>SUBCATEGORY 07 · 0 ARTICLES</sub>
+<sub>SUBCATEGORY (하위 카테고리) 07 · 0 ARTICLES (글)</sub>
 
-## Articles
+## Articles (글)
 
-아직 공개된 글이 없습니다.
+No Articles Yet (아직 공개된 글이 없습니다.)
 
 ---
 
-[← Distributed Systems로 돌아가기](../) · [MyPage_](../../)
+[← Back to Distributed Systems (분산 시스템과 시스템 설계로 돌아가기)](../) · [MyPage_](../../)

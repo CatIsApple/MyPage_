@@ -2,14 +2,14 @@
 
 # NoSQL (비관계형 데이터베이스)
 
-<img src="../../assets/categories/06-storage-databases.jpg" alt="NoSQL (비관계형 데이터베이스)" width="100%">
+<img src="../../assets/subcategories/06-storage-databases/06-nosql.jpg" alt="NoSQL (비관계형 데이터베이스)" width="100%">
 
-<sub>SUBCATEGORY 06 · 0 ARTICLES</sub>
+<sub>SUBCATEGORY (하위 카테고리) 06 · 0 ARTICLES (글)</sub>
 
-## Articles
+## Articles (글)
 
-아직 공개된 글이 없습니다.
+No Articles Yet (아직 공개된 글이 없습니다.)
 
 ---
 
-[← Storage & Databases로 돌아가기](../) · [MyPage_](../../)
+[← Back to Storage & Databases (저장장치와 데이터베이스로 돌아가기)](../) · [MyPage_](../../)

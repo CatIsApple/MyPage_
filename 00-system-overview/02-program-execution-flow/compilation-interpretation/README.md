@@ -2,7 +2,7 @@
 
 # Compilation & Interpretation (컴파일과 해석)
 
-<sub>2026.09.05</sub>
+<sub>PROGRAM EXECUTION FLOW (프로그램 실행 전체 흐름) · 2026.09.05</sub>
 
 <img src="../../../assets/articles/compilation-interpretation/cover.jpg" alt="Compilation &amp; Interpretation (컴파일과 해석)" width="100%">
 
@@ -175,4 +175,4 @@ Java는 소스 코드를 바이트코드로 미리 컴파일한 뒤 JVM 구현�
 
 ---
 
-[← Program Execution Flow로 돌아가기](../) · [System Overview](../../) · [MyPage_](../../../)
+[← Back to Program Execution Flow (프로그램 실행 전체 흐름으로 돌아가기)](../) · [System Overview (시스템 전체 흐름)](../../) · [MyPage_](../../../)

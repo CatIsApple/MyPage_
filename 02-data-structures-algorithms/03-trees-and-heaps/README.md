@@ -2,14 +2,14 @@
 
 # Trees & Heaps (트리·힙)
 
-<img src="../../assets/categories/02-data-structures-algorithms.jpg" alt="Trees &amp; Heaps (트리·힙)" width="100%">
+<img src="../../assets/subcategories/02-data-structures-algorithms/03-trees-and-heaps.jpg" alt="Trees &amp; Heaps (트리·힙)" width="100%">
 
-<sub>SUBCATEGORY 03 · 0 ARTICLES</sub>
+<sub>SUBCATEGORY (하위 카테고리) 03 · 0 ARTICLES (글)</sub>
 
-## Articles
+## Articles (글)
 
-아직 공개된 글이 없습니다.
+No Articles Yet (아직 공개된 글이 없습니다.)
 
 ---
 
-[← Data Structures & Algorithms로 돌아가기](../) · [MyPage_](../../)
+[← Back to Data Structures & Algorithms (자료구조와 알고리즘으로 돌아가기)](../) · [MyPage_](../../)

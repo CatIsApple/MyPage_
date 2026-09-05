@@ -2,14 +2,14 @@
 
 # Query Processing & Optimization (쿼리 처리와 최적화)
 
-<img src="../../assets/categories/06-storage-databases.jpg" alt="Query Processing &amp; Optimization (쿼리 처리와 최적화)" width="100%">
+<img src="../../assets/subcategories/06-storage-databases/09-query-processing-and-optimization.jpg" alt="Query Processing &amp; Optimization (쿼리 처리와 최적화)" width="100%">
 
-<sub>SUBCATEGORY 09 · 0 ARTICLES</sub>
+<sub>SUBCATEGORY (하위 카테고리) 09 · 0 ARTICLES (글)</sub>
 
-## Articles
+## Articles (글)
 
-아직 공개된 글이 없습니다.
+No Articles Yet (아직 공개된 글이 없습니다.)
 
 ---
 
-[← Storage & Databases로 돌아가기](../) · [MyPage_](../../)
+[← Back to Storage & Databases (저장장치와 데이터베이스로 돌아가기)](../) · [MyPage_](../../)

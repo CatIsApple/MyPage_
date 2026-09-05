@@ -2,14 +2,14 @@
 
 # Pipelining & Execution (파이프라인과 명령 실행)
 
-<img src="../../assets/categories/03-computer-architecture.jpg" alt="Pipelining &amp; Execution (파이프라인과 명령 실행)" width="100%">
+<img src="../../assets/subcategories/03-computer-architecture/07-pipelining-and-execution.jpg" alt="Pipelining &amp; Execution (파이프라인과 명령 실행)" width="100%">
 
-<sub>SUBCATEGORY 07 · 0 ARTICLES</sub>
+<sub>SUBCATEGORY (하위 카테고리) 07 · 0 ARTICLES (글)</sub>
 
-## Articles
+## Articles (글)
 
-아직 공개된 글이 없습니다.
+No Articles Yet (아직 공개된 글이 없습니다.)
 
 ---
 
-[← Computer Architecture로 돌아가기](../) · [MyPage_](../../)
+[← Back to Computer Architecture (컴퓨터 구조로 돌아가기)](../) · [MyPage_](../../)

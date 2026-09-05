@@ -2,14 +2,14 @@
 
 # TCP (전송 제어 프로토콜)
 
-<img src="../../assets/categories/05-computer-networks.jpg" alt="TCP (전송 제어 프로토콜)" width="100%">
+<img src="../../assets/subcategories/05-computer-networks/03-tcp.jpg" alt="TCP (전송 제어 프로토콜)" width="100%">
 
-<sub>SUBCATEGORY 03 · 0 ARTICLES</sub>
+<sub>SUBCATEGORY (하위 카테고리) 03 · 0 ARTICLES (글)</sub>
 
-## Articles
+## Articles (글)
 
-아직 공개된 글이 없습니다.
+No Articles Yet (아직 공개된 글이 없습니다.)
 
 ---
 
-[← Computer Networks로 돌아가기](../) · [MyPage_](../../)
+[← Back to Computer Networks (컴퓨터 네트워크로 돌아가기)](../) · [MyPage_](../../)

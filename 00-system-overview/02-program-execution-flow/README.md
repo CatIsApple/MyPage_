@@ -4,9 +4,29 @@
 
 <img src="../../assets/categories/00-system-overview.png" alt="Program Execution Flow (프로그램 실행 전체 흐름)" width="100%" align="top"><a href="#articles-글"><img src="../../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
-<sub>SUBCATEGORY (하위 카테고리) 02 · 1 ARTICLE (글)</sub>
+<sub>SUBCATEGORY (하위 카테고리) 02 · 2 ARTICLES (글)</sub>
 
 ## Articles (글)
+
+<table>
+  <tr>
+    <td rowspan="2" width="40%" valign="top">
+      <a href="./executable-bytecode/">
+        <img src="../../assets/articles/executable-bytecode/cover.jpg" alt="Executable &amp; Bytecode (실행 파일과 바이트코드)" width="100%">
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <sub>PROGRAM EXECUTION FLOW (프로그램 실행 전체 흐름) · 2026.09.06</sub><br>
+      <strong>Executable &amp; Bytecode (실행 파일과 바이트코드)</strong><br>
+      바이트코드와 JVM의 실행 구조부터 실행 파일 생성, 인메모리 실행, 운영체제가 프로그램을 시작하는 과정까지 정리했다.
+    </td>
+  </tr>
+  <tr height="1">
+    <td width="60%" height="1" valign="bottom">
+      <strong><a href="./executable-bytecode/">Read Article (글 읽기) →</a></strong>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>

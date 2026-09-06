@@ -12,36 +12,36 @@
   <tr>
     <td width="50%" valign="top">
       <sub>SUBCATEGORY (하위 카테고리) 01 · 0 ARTICLES (글)</sub><br>
-      <strong>System Components (시스템 구성 요소)</strong><br>
+      <strong>System Components (시스템 구성 요소)</strong><br><br>
       <a href="./01-system-components/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
       <sub>SUBCATEGORY (하위 카테고리) 02 · 1 ARTICLE (글)</sub><br>
-      <strong>Program Execution Flow (프로그램 실행 전체 흐름)</strong><br>
+      <strong>Program Execution Flow (프로그램 실행 전체 흐름)</strong><br><br>
       <a href="./02-program-execution-flow/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <sub>SUBCATEGORY (하위 카테고리) 03 · 0 ARTICLES (글)</sub><br>
-      <strong>Web Request Flow (웹 요청 전체 흐름)</strong><br>
+      <strong>Web Request Flow (웹 요청 전체 흐름)</strong><br><br>
       <a href="./03-web-request-flow/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
       <sub>SUBCATEGORY (하위 카테고리) 04 · 0 ARTICLES (글)</sub><br>
-      <strong>File I/O Flow (파일 입출력 전체 흐름)</strong><br>
+      <strong>File I/O Flow (파일 입출력 전체 흐름)</strong><br><br>
       <a href="./04-file-io-flow/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <sub>SUBCATEGORY (하위 카테고리) 05 · 0 ARTICLES (글)</sub><br>
-      <strong>Concurrent Execution Flow (동시 실행 전체 흐름)</strong><br>
+      <strong>Concurrent Execution Flow (동시 실행 전체 흐름)</strong><br><br>
       <a href="./05-concurrent-execution-flow/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
       <sub>SUBCATEGORY (하위 카테고리) 06 · 0 ARTICLES (글)</sub><br>
-      <strong>Failure &amp; Recovery Flow (장애와 복구 전체 흐름)</strong><br>
+      <strong>Failure &amp; Recovery Flow (장애와 복구 전체 흐름)</strong><br><br>
       <a href="./06-failure-and-recovery-flow/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>

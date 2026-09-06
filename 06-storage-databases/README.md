@@ -12,72 +12,72 @@
   <tr>
     <td width="50%" valign="top">
       <sub>SUBCATEGORY (하위 카테고리) 01 · 0 ARTICLES (글)</sub><br>
-      <strong>Relational Databases (관계형 데이터베이스)</strong><br>
+      <strong>Relational Databases (관계형 데이터베이스)</strong><br><br>
       <a href="./01-relational-databases/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
       <sub>SUBCATEGORY (하위 카테고리) 02 · 0 ARTICLES (글)</sub><br>
-      <strong>SQL (구조화 질의 언어)</strong><br>
+      <strong>SQL (구조화 질의 언어)</strong><br><br>
       <a href="./02-sql/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <sub>SUBCATEGORY (하위 카테고리) 03 · 0 ARTICLES (글)</sub><br>
-      <strong>Indexes (인덱스)</strong><br>
+      <strong>Indexes (인덱스)</strong><br><br>
       <a href="./03-indexes/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
       <sub>SUBCATEGORY (하위 카테고리) 04 · 0 ARTICLES (글)</sub><br>
-      <strong>Normalization (정규화)</strong><br>
+      <strong>Normalization (정규화)</strong><br><br>
       <a href="./04-normalization/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <sub>SUBCATEGORY (하위 카테고리) 05 · 0 ARTICLES (글)</sub><br>
-      <strong>Transactions (트랜잭션)</strong><br>
+      <strong>Transactions (트랜잭션)</strong><br><br>
       <a href="./05-transactions/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
       <sub>SUBCATEGORY (하위 카테고리) 06 · 0 ARTICLES (글)</sub><br>
-      <strong>NoSQL (비관계형 데이터베이스)</strong><br>
+      <strong>NoSQL (비관계형 데이터베이스)</strong><br><br>
       <a href="./06-nosql/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <sub>SUBCATEGORY (하위 카테고리) 07 · 0 ARTICLES (글)</sub><br>
-      <strong>Storage Engines &amp; Pages (저장 엔진과 페이지)</strong><br>
+      <strong>Storage Engines &amp; Pages (저장 엔진과 페이지)</strong><br><br>
       <a href="./07-storage-engines-and-pages/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
       <sub>SUBCATEGORY (하위 카테고리) 08 · 0 ARTICLES (글)</sub><br>
-      <strong>Data Modeling (데이터 모델링)</strong><br>
+      <strong>Data Modeling (데이터 모델링)</strong><br><br>
       <a href="./08-data-modeling/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <sub>SUBCATEGORY (하위 카테고리) 09 · 0 ARTICLES (글)</sub><br>
-      <strong>Query Processing &amp; Optimization (쿼리 처리와 최적화)</strong><br>
+      <strong>Query Processing &amp; Optimization (쿼리 처리와 최적화)</strong><br><br>
       <a href="./09-query-processing-and-optimization/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
       <sub>SUBCATEGORY (하위 카테고리) 10 · 0 ARTICLES (글)</sub><br>
-      <strong>Concurrency Control &amp; MVCC (동시성 제어·MVCC)</strong><br>
+      <strong>Concurrency Control &amp; MVCC (동시성 제어·MVCC)</strong><br><br>
       <a href="./10-concurrency-control-and-mvcc/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <sub>SUBCATEGORY (하위 카테고리) 11 · 0 ARTICLES (글)</sub><br>
-      <strong>WAL &amp; Recovery (WAL·복구)</strong><br>
+      <strong>WAL &amp; Recovery (WAL·복구)</strong><br><br>
       <a href="./11-wal-and-recovery/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
       <sub>SUBCATEGORY (하위 카테고리) 12 · 0 ARTICLES (글)</sub><br>
-      <strong>Distributed Storage (분산 데이터 저장)</strong><br>
+      <strong>Distributed Storage (분산 데이터 저장)</strong><br><br>
       <a href="./12-distributed-storage/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>

@@ -2,7 +2,7 @@
 
 # Storage Engines & Pages (저장 엔진과 페이지)
 
-<img src="../../assets/categories/06-storage-databases.png" alt="Storage Engines &amp; Pages (저장 엔진과 페이지)" width="100%">
+<img src="../../assets/categories/06-storage-databases.png" alt="Storage Engines &amp; Pages (저장 엔진과 페이지)" width="100%" align="top"><a href="#articles-글"><img src="../../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
 <sub>SUBCATEGORY (하위 카테고리) 07 · 0 ARTICLES (글)</sub>
 

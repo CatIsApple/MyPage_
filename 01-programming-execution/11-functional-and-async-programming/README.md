@@ -2,7 +2,7 @@
 
 # Functional & Async Programming (함수형·비동기 프로그래밍)
 
-<img src="../../assets/categories/01-programming-execution.png" alt="Functional &amp; Async Programming (함수형·비동기 프로그래밍)" width="100%">
+<img src="../../assets/categories/01-programming-execution.png" alt="Functional &amp; Async Programming (함수형·비동기 프로그래밍)" width="100%" align="top"><a href="#articles-글"><img src="../../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
 <sub>SUBCATEGORY (하위 카테고리) 11 · 0 ARTICLES (글)</sub>
 

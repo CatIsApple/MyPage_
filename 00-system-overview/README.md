@@ -2,7 +2,7 @@
 
 # 00 . System Overview (시스템 전체 흐름)
 
-<img src="../assets/categories/00-system-overview.png" alt="00 . System Overview (시스템 전체 흐름)" width="100%" align="top"><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
+<a href="#subcategories-하위-카테고리"><img src="../assets/categories/00-system-overview.png" alt="00 . System Overview (시스템 전체 흐름)" width="100%" align="top"></a><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
 <sub>6 SUBCATEGORIES (하위 카테고리) · 2 ARTICLES (글)</sub>
 

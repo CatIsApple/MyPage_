@@ -2,7 +2,7 @@
 
 # 06 . Storage & Databases (저장장치와 데이터베이스)
 
-<img src="../assets/categories/06-storage-databases.png" alt="06 . Storage &amp; Databases (저장장치와 데이터베이스)" width="100%" align="top"><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
+<a href="#subcategories-하위-카테고리"><img src="../assets/categories/06-storage-databases.png" alt="06 . Storage &amp; Databases (저장장치와 데이터베이스)" width="100%" align="top"></a><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
 <sub>12 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub>
 

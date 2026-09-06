@@ -2,7 +2,7 @@
 
 # 08 . Software Engineering (소프트웨어 공학과 운영)
 
-<img src="../assets/categories/08-software-engineering.png" alt="08 . Software Engineering (소프트웨어 공학과 운영)" width="100%" align="top"><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
+<a href="#subcategories-하위-카테고리"><img src="../assets/categories/08-software-engineering.png" alt="08 . Software Engineering (소프트웨어 공학과 운영)" width="100%" align="top"></a><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
 <sub>13 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub>
 

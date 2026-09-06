@@ -2,7 +2,7 @@
 
 # 04 . Operating Systems (운영체제)
 
-<img src="../assets/categories/04-operating-systems.png" alt="04 . Operating Systems (운영체제)" width="100%" align="top"><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
+<a href="#subcategories-하위-카테고리"><img src="../assets/categories/04-operating-systems.png" alt="04 . Operating Systems (운영체제)" width="100%" align="top"></a><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
 <sub>13 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub>
 

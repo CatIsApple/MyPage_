@@ -2,7 +2,7 @@
 
 # Distributed Transactions (분산 트랜잭션)
 
-<img src="../../assets/categories/07-distributed-systems.png" alt="Distributed Transactions (분산 트랜잭션)" width="100%" align="top"><a href="#articles-글"><img src="../../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
+<a href="#articles-글"><img src="../../assets/categories/07-distributed-systems.png" alt="Distributed Transactions (분산 트랜잭션)" width="100%" align="top"></a><a href="#articles-글"><img src="../../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
 <sub>SUBCATEGORY (하위 카테고리) 12 · 0 ARTICLES (글)</sub>
 

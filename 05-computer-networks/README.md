@@ -2,7 +2,7 @@
 
 # 05 . Computer Networks (컴퓨터 네트워크)
 
-<img src="../assets/categories/05-computer-networks.png" alt="05 . Computer Networks (컴퓨터 네트워크)" width="100%" align="top"><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
+<a href="#subcategories-하위-카테고리"><img src="../assets/categories/05-computer-networks.png" alt="05 . Computer Networks (컴퓨터 네트워크)" width="100%" align="top"></a><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
 <sub>14 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub>
 

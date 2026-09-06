@@ -2,7 +2,7 @@
 
 # 01 . Programming & Execution (프로그래밍과 실행)
 
-<img src="../assets/categories/01-programming-execution.png" alt="01 . Programming &amp; Execution (프로그래밍과 실행)" width="100%" align="top"><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
+<a href="#subcategories-하위-카테고리"><img src="../assets/categories/01-programming-execution.png" alt="01 . Programming &amp; Execution (프로그래밍과 실행)" width="100%" align="top"></a><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
 <sub>11 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub>
 

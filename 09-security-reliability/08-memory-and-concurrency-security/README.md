@@ -2,7 +2,7 @@
 
 # Memory & Concurrency Security (메모리·동시성 보안)
 
-<img src="../../assets/categories/09-security-reliability.png" alt="Memory &amp; Concurrency Security (메모리·동시성 보안)" width="100%" align="top"><a href="#articles-글"><img src="../../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
+<a href="#articles-글"><img src="../../assets/categories/09-security-reliability.png" alt="Memory &amp; Concurrency Security (메모리·동시성 보안)" width="100%" align="top"></a><a href="#articles-글"><img src="../../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
 <sub>SUBCATEGORY (하위 카테고리) 08 · 0 ARTICLES (글)</sub>
 

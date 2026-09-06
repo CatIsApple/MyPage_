@@ -2,7 +2,7 @@
 
 # Data Representation (데이터 표현)
 
-<img src="../../assets/categories/03-computer-architecture.png" alt="Data Representation (데이터 표현)" width="100%" align="top"><a href="#articles-글"><img src="../../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
+<a href="#articles-글"><img src="../../assets/categories/03-computer-architecture.png" alt="Data Representation (데이터 표현)" width="100%" align="top"></a><a href="#articles-글"><img src="../../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
 <sub>SUBCATEGORY (하위 카테고리) 01 · 0 ARTICLES (글)</sub>
 

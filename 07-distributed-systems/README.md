@@ -2,7 +2,7 @@
 
 # 07 . Distributed Systems (분산 시스템과 시스템 설계)
 
-<img src="../assets/categories/07-distributed-systems.png" alt="07 . Distributed Systems (분산 시스템과 시스템 설계)" width="100%" align="top"><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
+<a href="#subcategories-하위-카테고리"><img src="../assets/categories/07-distributed-systems.png" alt="07 . Distributed Systems (분산 시스템과 시스템 설계)" width="100%" align="top"></a><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
 <sub>13 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub>
 

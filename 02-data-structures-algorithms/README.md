@@ -2,7 +2,7 @@
 
 # 02 . Data Structures & Algorithms (자료구조와 알고리즘)
 
-<img src="../assets/categories/02-data-structures-algorithms.png" alt="02 . Data Structures &amp; Algorithms (자료구조와 알고리즘)" width="100%" align="top"><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
+<a href="#subcategories-하위-카테고리"><img src="../assets/categories/02-data-structures-algorithms.png" alt="02 . Data Structures &amp; Algorithms (자료구조와 알고리즘)" width="100%" align="top"></a><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
 <sub>9 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub>
 

@@ -2,7 +2,7 @@
 
 # 09 . Security & Reliability (보안과 안정성)
 
-<img src="../assets/categories/09-security-reliability.png" alt="09 . Security &amp; Reliability (보안과 안정성)" width="100%" align="top"><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
+<a href="#subcategories-하위-카테고리"><img src="../assets/categories/09-security-reliability.png" alt="09 . Security &amp; Reliability (보안과 안정성)" width="100%" align="top"></a><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
 <sub>15 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub>
 

@@ -2,7 +2,7 @@
 
 # 04 . Operating Systems (운영체제)
 
-<img src="../assets/categories/04-operating-systems.jpg" alt="04 . Operating Systems (운영체제)" width="100%">
+<img src="../assets/categories/04-operating-systems.png" alt="04 . Operating Systems (운영체제)" width="100%">
 
 <sub>13 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub>
 
@@ -12,7 +12,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="./01-kernel-and-system-calls/">
-        <img src="../assets/subcategories/04-operating-systems/01-kernel-and-system-calls.jpg" alt="Kernel &amp; System Calls (커널·시스템 콜)" width="100%">
+        <img src="../assets/categories/04-operating-systems.png" alt="Kernel &amp; System Calls (커널·시스템 콜)" width="100%">
       </a>
       <br>
       <sub>SUBCATEGORY (하위 카테고리) 01 · 0 ARTICLES (글)</sub><br>
@@ -20,7 +20,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="./02-process/">
-        <img src="../assets/subcategories/04-operating-systems/02-process.jpg" alt="Process (프로세스)" width="100%">
+        <img src="../assets/categories/04-operating-systems.png" alt="Process (프로세스)" width="100%">
       </a>
       <br>
       <sub>SUBCATEGORY (하위 카테고리) 02 · 0 ARTICLES (글)</sub><br>
@@ -30,7 +30,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="./03-concurrency-and-synchronization/">
-        <img src="../assets/subcategories/04-operating-systems/03-concurrency-and-synchronization.jpg" alt="Concurrency &amp; Synchronization (동시성·동기화)" width="100%">
+        <img src="../assets/categories/04-operating-systems.png" alt="Concurrency &amp; Synchronization (동시성·동기화)" width="100%">
       </a>
       <br>
       <sub>SUBCATEGORY (하위 카테고리) 03 · 0 ARTICLES (글)</sub><br>
@@ -38,7 +38,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="./04-cpu-scheduling/">
-        <img src="../assets/subcategories/04-operating-systems/04-cpu-scheduling.jpg" alt="CPU Scheduling (CPU 스케줄링)" width="100%">
+        <img src="../assets/categories/04-operating-systems.png" alt="CPU Scheduling (CPU 스케줄링)" width="100%">
       </a>
       <br>
       <sub>SUBCATEGORY (하위 카테고리) 04 · 0 ARTICLES (글)</sub><br>
@@ -48,7 +48,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="./05-virtual-memory/">
-        <img src="../assets/subcategories/04-operating-systems/05-virtual-memory.jpg" alt="Virtual Memory (가상 메모리)" width="100%">
+        <img src="../assets/categories/04-operating-systems.png" alt="Virtual Memory (가상 메모리)" width="100%">
       </a>
       <br>
       <sub>SUBCATEGORY (하위 카테고리) 05 · 0 ARTICLES (글)</sub><br>
@@ -56,7 +56,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="./06-file-systems/">
-        <img src="../assets/subcategories/04-operating-systems/06-file-systems.jpg" alt="File Systems (파일 시스템)" width="100%">
+        <img src="../assets/categories/04-operating-systems.png" alt="File Systems (파일 시스템)" width="100%">
       </a>
       <br>
       <sub>SUBCATEGORY (하위 카테고리) 06 · 0 ARTICLES (글)</sub><br>
@@ -66,7 +66,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="./07-virtualization-and-containers/">
-        <img src="../assets/subcategories/04-operating-systems/07-virtualization-and-containers.jpg" alt="Virtualization &amp; Containers (가상화·컨테이너)" width="100%">
+        <img src="../assets/categories/04-operating-systems.png" alt="Virtualization &amp; Containers (가상화·컨테이너)" width="100%">
       </a>
       <br>
       <sub>SUBCATEGORY (하위 카테고리) 07 · 0 ARTICLES (글)</sub><br>
@@ -74,7 +74,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="./08-os-roles-and-structure/">
-        <img src="../assets/subcategories/04-operating-systems/08-os-roles-and-structure.jpg" alt="OS Roles &amp; Structure (운영체제 역할·구조)" width="100%">
+        <img src="../assets/categories/04-operating-systems.png" alt="OS Roles &amp; Structure (운영체제 역할·구조)" width="100%">
       </a>
       <br>
       <sub>SUBCATEGORY (하위 카테고리) 08 · 0 ARTICLES (글)</sub><br>
@@ -84,7 +84,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="./09-thread/">
-        <img src="../assets/subcategories/04-operating-systems/09-thread.jpg" alt="Thread (스레드)" width="100%">
+        <img src="../assets/categories/04-operating-systems.png" alt="Thread (스레드)" width="100%">
       </a>
       <br>
       <sub>SUBCATEGORY (하위 카테고리) 09 · 0 ARTICLES (글)</sub><br>
@@ -92,7 +92,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="./10-deadlock/">
-        <img src="../assets/subcategories/04-operating-systems/10-deadlock.jpg" alt="Deadlock (교착 상태)" width="100%">
+        <img src="../assets/categories/04-operating-systems.png" alt="Deadlock (교착 상태)" width="100%">
       </a>
       <br>
       <sub>SUBCATEGORY (하위 카테고리) 10 · 0 ARTICLES (글)</sub><br>
@@ -102,7 +102,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="./11-memory-management/">
-        <img src="../assets/subcategories/04-operating-systems/11-memory-management.jpg" alt="Memory Management (메모리 관리)" width="100%">
+        <img src="../assets/categories/04-operating-systems.png" alt="Memory Management (메모리 관리)" width="100%">
       </a>
       <br>
       <sub>SUBCATEGORY (하위 카테고리) 11 · 0 ARTICLES (글)</sub><br>
@@ -110,7 +110,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="./12-io-and-devices/">
-        <img src="../assets/subcategories/04-operating-systems/12-io-and-devices.jpg" alt="I/O &amp; Devices (입출력과 장치)" width="100%">
+        <img src="../assets/categories/04-operating-systems.png" alt="I/O &amp; Devices (입출력과 장치)" width="100%">
       </a>
       <br>
       <sub>SUBCATEGORY (하위 카테고리) 12 · 0 ARTICLES (글)</sub><br>
@@ -120,7 +120,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="./13-protection-and-isolation/">
-        <img src="../assets/subcategories/04-operating-systems/13-protection-and-isolation.jpg" alt="Protection &amp; Isolation (보호와 격리)" width="100%">
+        <img src="../assets/categories/04-operating-systems.png" alt="Protection &amp; Isolation (보호와 격리)" width="100%">
       </a>
       <br>
       <sub>SUBCATEGORY (하위 카테고리) 13 · 0 ARTICLES (글)</sub><br>

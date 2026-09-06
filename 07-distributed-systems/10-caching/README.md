@@ -2,7 +2,7 @@
 
 # Caching (캐시)
 
-<img src="../../assets/subcategories/07-distributed-systems/10-caching.jpg" alt="Caching (캐시)" width="100%">
+<img src="../../assets/categories/07-distributed-systems.png" alt="Caching (캐시)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 10 · 0 ARTICLES (글)</sub>
 

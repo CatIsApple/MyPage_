@@ -2,7 +2,7 @@
 
 # Process (프로세스)
 
-<img src="../../assets/subcategories/04-operating-systems/02-process.jpg" alt="Process (프로세스)" width="100%">
+<img src="../../assets/categories/04-operating-systems.png" alt="Process (프로세스)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 02 · 0 ARTICLES (글)</sub>
 

@@ -2,7 +2,7 @@
 
 # Kernel & System Calls (커널·시스템 콜)
 
-<img src="../../assets/subcategories/04-operating-systems/01-kernel-and-system-calls.jpg" alt="Kernel &amp; System Calls (커널·시스템 콜)" width="100%">
+<img src="../../assets/categories/04-operating-systems.png" alt="Kernel &amp; System Calls (커널·시스템 콜)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 01 · 0 ARTICLES (글)</sub>
 

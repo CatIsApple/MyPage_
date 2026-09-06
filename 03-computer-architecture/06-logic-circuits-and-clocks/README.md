@@ -2,7 +2,7 @@
 
 # Logic Circuits & Clocks (논리 회로와 클럭)
 
-<img src="../../assets/subcategories/03-computer-architecture/06-logic-circuits-and-clocks.jpg" alt="Logic Circuits &amp; Clocks (논리 회로와 클럭)" width="100%">
+<img src="../../assets/categories/03-computer-architecture.png" alt="Logic Circuits &amp; Clocks (논리 회로와 클럭)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 06 · 0 ARTICLES (글)</sub>
 

@@ -2,7 +2,7 @@
 
 # Code Quality & Refactoring (코드 품질·리팩터링)
 
-<img src="../../assets/subcategories/08-software-engineering/08-code-quality-and-refactoring.jpg" alt="Code Quality &amp; Refactoring (코드 품질·리팩터링)" width="100%">
+<img src="../../assets/categories/08-software-engineering.png" alt="Code Quality &amp; Refactoring (코드 품질·리팩터링)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 08 · 0 ARTICLES (글)</sub>
 

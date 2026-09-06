@@ -2,7 +2,7 @@
 
 # Main Memory (주기억장치)
 
-<img src="../../assets/subcategories/03-computer-architecture/08-main-memory.jpg" alt="Main Memory (주기억장치)" width="100%">
+<img src="../../assets/categories/03-computer-architecture.png" alt="Main Memory (주기억장치)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 08 · 0 ARTICLES (글)</sub>
 

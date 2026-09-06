@@ -2,7 +2,7 @@
 
 # Memory & Pointers (메모리·포인터)
 
-<img src="../../assets/subcategories/01-programming-execution/04-memory-and-pointers.jpg" alt="Memory &amp; Pointers (메모리·포인터)" width="100%">
+<img src="../../assets/categories/01-programming-execution.png" alt="Memory &amp; Pointers (메모리·포인터)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 04 · 0 ARTICLES (글)</sub>
 

@@ -2,7 +2,7 @@
 
 # Protection & Isolation (보호와 격리)
 
-<img src="../../assets/subcategories/04-operating-systems/13-protection-and-isolation.jpg" alt="Protection &amp; Isolation (보호와 격리)" width="100%">
+<img src="../../assets/categories/04-operating-systems.png" alt="Protection &amp; Isolation (보호와 격리)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 13 · 0 ARTICLES (글)</sub>
 

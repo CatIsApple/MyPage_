@@ -2,7 +2,7 @@
 
 # Type System (타입 시스템)
 
-<img src="../../assets/subcategories/01-programming-execution/08-type-system.jpg" alt="Type System (타입 시스템)" width="100%">
+<img src="../../assets/categories/01-programming-execution.png" alt="Type System (타입 시스템)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 08 · 0 ARTICLES (글)</sub>
 

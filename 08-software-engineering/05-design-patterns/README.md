@@ -2,7 +2,7 @@
 
 # Design Patterns (디자인 패턴)
 
-<img src="../../assets/subcategories/08-software-engineering/05-design-patterns.jpg" alt="Design Patterns (디자인 패턴)" width="100%">
+<img src="../../assets/categories/08-software-engineering.png" alt="Design Patterns (디자인 패턴)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 05 · 0 ARTICLES (글)</sub>
 

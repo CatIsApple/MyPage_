@@ -2,7 +2,7 @@
 
 # Proxies, Load Balancers & CDN (프록시·로드 밸런서·CDN)
 
-<img src="../../assets/subcategories/05-computer-networks/13-proxies-load-balancers-and-cdn.jpg" alt="Proxies, Load Balancers &amp; CDN (프록시·로드 밸런서·CDN)" width="100%">
+<img src="../../assets/categories/05-computer-networks.png" alt="Proxies, Load Balancers &amp; CDN (프록시·로드 밸런서·CDN)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 13 · 0 ARTICLES (글)</sub>
 

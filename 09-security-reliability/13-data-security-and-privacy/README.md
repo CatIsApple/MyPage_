@@ -2,7 +2,7 @@
 
 # Data Security & Privacy (데이터 보안·개인정보)
 
-<img src="../../assets/subcategories/09-security-reliability/13-data-security-and-privacy.jpg" alt="Data Security &amp; Privacy (데이터 보안·개인정보)" width="100%">
+<img src="../../assets/categories/09-security-reliability.png" alt="Data Security &amp; Privacy (데이터 보안·개인정보)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 13 · 0 ARTICLES (글)</sub>
 

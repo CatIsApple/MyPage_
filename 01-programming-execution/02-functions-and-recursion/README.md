@@ -2,7 +2,7 @@
 
 # Functions & Recursion (함수·재귀)
 
-<img src="../../assets/subcategories/01-programming-execution/02-functions-and-recursion.jpg" alt="Functions &amp; Recursion (함수·재귀)" width="100%">
+<img src="../../assets/categories/01-programming-execution.png" alt="Functions &amp; Recursion (함수·재귀)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 02 · 0 ARTICLES (글)</sub>
 

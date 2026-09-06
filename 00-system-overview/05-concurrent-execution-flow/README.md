@@ -2,7 +2,7 @@
 
 # Concurrent Execution Flow (동시 실행 전체 흐름)
 
-<img src="../../assets/subcategories/00-system-overview/05-concurrent-execution-flow.jpg" alt="Concurrent Execution Flow (동시 실행 전체 흐름)" width="100%">
+<img src="../../assets/categories/00-system-overview.png" alt="Concurrent Execution Flow (동시 실행 전체 흐름)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 05 · 0 ARTICLES (글)</sub>
 

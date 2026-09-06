@@ -2,7 +2,7 @@
 
 # HTTP (하이퍼텍스트 전송 프로토콜)
 
-<img src="../../assets/subcategories/05-computer-networks/05-http.jpg" alt="HTTP (하이퍼텍스트 전송 프로토콜)" width="100%">
+<img src="../../assets/categories/05-computer-networks.png" alt="HTTP (하이퍼텍스트 전송 프로토콜)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 05 · 0 ARTICLES (글)</sub>
 

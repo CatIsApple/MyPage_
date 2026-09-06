@@ -2,7 +2,7 @@
 
 # Authorization & Sessions (인가·세션)
 
-<img src="../../assets/subcategories/09-security-reliability/03-authorization-and-sessions.jpg" alt="Authorization &amp; Sessions (인가·세션)" width="100%">
+<img src="../../assets/categories/09-security-reliability.png" alt="Authorization &amp; Sessions (인가·세션)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 03 · 0 ARTICLES (글)</sub>
 

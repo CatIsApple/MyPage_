@@ -2,7 +2,7 @@
 
 # OS Roles & Structure (운영체제 역할·구조)
 
-<img src="../../assets/subcategories/04-operating-systems/08-os-roles-and-structure.jpg" alt="OS Roles &amp; Structure (운영체제 역할·구조)" width="100%">
+<img src="../../assets/categories/04-operating-systems.png" alt="OS Roles &amp; Structure (운영체제 역할·구조)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 08 · 0 ARTICLES (글)</sub>
 

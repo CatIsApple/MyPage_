@@ -2,7 +2,7 @@
 
 # I/O & Devices (입출력과 장치)
 
-<img src="../../assets/subcategories/04-operating-systems/12-io-and-devices.jpg" alt="I/O &amp; Devices (입출력과 장치)" width="100%">
+<img src="../../assets/categories/04-operating-systems.png" alt="I/O &amp; Devices (입출력과 장치)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 12 · 0 ARTICLES (글)</sub>
 

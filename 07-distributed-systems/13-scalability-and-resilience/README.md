@@ -2,7 +2,7 @@
 
 # Scalability & Resilience (확장성·복원력)
 
-<img src="../../assets/subcategories/07-distributed-systems/13-scalability-and-resilience.jpg" alt="Scalability &amp; Resilience (확장성·복원력)" width="100%">
+<img src="../../assets/categories/07-distributed-systems.png" alt="Scalability &amp; Resilience (확장성·복원력)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 13 · 0 ARTICLES (글)</sub>
 

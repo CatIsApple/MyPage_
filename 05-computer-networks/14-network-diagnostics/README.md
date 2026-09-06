@@ -2,7 +2,7 @@
 
 # Network Diagnostics (네트워크 진단)
 
-<img src="../../assets/subcategories/05-computer-networks/14-network-diagnostics.jpg" alt="Network Diagnostics (네트워크 진단)" width="100%">
+<img src="../../assets/categories/05-computer-networks.png" alt="Network Diagnostics (네트워크 진단)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 14 · 0 ARTICLES (글)</sub>
 

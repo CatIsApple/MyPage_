@@ -2,7 +2,7 @@
 
 # Build & Dependency Management (빌드·의존성 관리)
 
-<img src="../../assets/subcategories/08-software-engineering/09-build-and-dependency-management.jpg" alt="Build &amp; Dependency Management (빌드·의존성 관리)" width="100%">
+<img src="../../assets/categories/08-software-engineering.png" alt="Build &amp; Dependency Management (빌드·의존성 관리)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 09 · 0 ARTICLES (글)</sub>
 

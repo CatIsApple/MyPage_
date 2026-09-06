@@ -2,7 +2,7 @@
 
 # Network Basics & TCP/IP (네트워크 기본·TCP/IP 계층)
 
-<img src="../../assets/subcategories/05-computer-networks/07-network-basics-and-tcp-ip.jpg" alt="Network Basics &amp; TCP/IP (네트워크 기본·TCP/IP 계층)" width="100%">
+<img src="../../assets/categories/05-computer-networks.png" alt="Network Basics &amp; TCP/IP (네트워크 기본·TCP/IP 계층)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 07 · 0 ARTICLES (글)</sub>
 

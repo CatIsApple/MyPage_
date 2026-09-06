@@ -2,7 +2,7 @@
 
 # Incident Response (장애 대응)
 
-<img src="../../assets/subcategories/08-software-engineering/13-incident-response.jpg" alt="Incident Response (장애 대응)" width="100%">
+<img src="../../assets/categories/08-software-engineering.png" alt="Incident Response (장애 대응)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 13 · 0 ARTICLES (글)</sub>
 

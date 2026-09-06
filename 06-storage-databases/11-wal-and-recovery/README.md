@@ -2,7 +2,7 @@
 
 # WAL & Recovery (WAL·복구)
 
-<img src="../../assets/subcategories/06-storage-databases/11-wal-and-recovery.jpg" alt="WAL &amp; Recovery (WAL·복구)" width="100%">
+<img src="../../assets/categories/06-storage-databases.png" alt="WAL &amp; Recovery (WAL·복구)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 11 · 0 ARTICLES (글)</sub>
 

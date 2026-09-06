@@ -2,7 +2,7 @@
 
 # Distributed Systems Basics (분산 시스템 기본)
 
-<img src="../../assets/subcategories/07-distributed-systems/01-distributed-systems-basics.jpg" alt="Distributed Systems Basics (분산 시스템 기본)" width="100%">
+<img src="../../assets/categories/07-distributed-systems.png" alt="Distributed Systems Basics (분산 시스템 기본)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 01 · 0 ARTICLES (글)</sub>
 

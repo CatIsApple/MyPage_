@@ -2,7 +2,7 @@
 
 # Query Processing & Optimization (쿼리 처리와 최적화)
 
-<img src="../../assets/subcategories/06-storage-databases/09-query-processing-and-optimization.jpg" alt="Query Processing &amp; Optimization (쿼리 처리와 최적화)" width="100%">
+<img src="../../assets/categories/06-storage-databases.png" alt="Query Processing &amp; Optimization (쿼리 처리와 최적화)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 09 · 0 ARTICLES (글)</sub>
 

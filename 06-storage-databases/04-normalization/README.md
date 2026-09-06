@@ -2,7 +2,7 @@
 
 # Normalization (정규화)
 
-<img src="../../assets/subcategories/06-storage-databases/04-normalization.jpg" alt="Normalization (정규화)" width="100%">
+<img src="../../assets/categories/06-storage-databases.png" alt="Normalization (정규화)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 04 · 0 ARTICLES (글)</sub>
 

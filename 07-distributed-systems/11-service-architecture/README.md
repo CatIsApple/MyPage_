@@ -2,7 +2,7 @@
 
 # Service Architecture (서비스 구조)
 
-<img src="../../assets/subcategories/07-distributed-systems/11-service-architecture.jpg" alt="Service Architecture (서비스 구조)" width="100%">
+<img src="../../assets/categories/07-distributed-systems.png" alt="Service Architecture (서비스 구조)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 11 · 0 ARTICLES (글)</sub>
 

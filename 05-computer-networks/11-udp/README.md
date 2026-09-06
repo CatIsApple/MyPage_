@@ -2,7 +2,7 @@
 
 # UDP (사용자 데이터그램 프로토콜)
 
-<img src="../../assets/subcategories/05-computer-networks/11-udp.jpg" alt="UDP (사용자 데이터그램 프로토콜)" width="100%">
+<img src="../../assets/categories/05-computer-networks.png" alt="UDP (사용자 데이터그램 프로토콜)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 11 · 0 ARTICLES (글)</sub>
 

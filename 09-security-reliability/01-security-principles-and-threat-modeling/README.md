@@ -2,7 +2,7 @@
 
 # Security Principles & Threat Modeling (보안 원칙·위협 모델)
 
-<img src="../../assets/subcategories/09-security-reliability/01-security-principles-and-threat-modeling.jpg" alt="Security Principles &amp; Threat Modeling (보안 원칙·위협 모델)" width="100%">
+<img src="../../assets/categories/09-security-reliability.png" alt="Security Principles &amp; Threat Modeling (보안 원칙·위협 모델)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 01 · 0 ARTICLES (글)</sub>
 

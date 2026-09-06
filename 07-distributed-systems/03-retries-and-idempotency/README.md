@@ -2,7 +2,7 @@
 
 # Retries & Idempotency (재시도·멱등성)
 
-<img src="../../assets/subcategories/07-distributed-systems/03-retries-and-idempotency.jpg" alt="Retries &amp; Idempotency (재시도·멱등성)" width="100%">
+<img src="../../assets/categories/07-distributed-systems.png" alt="Retries &amp; Idempotency (재시도·멱등성)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 03 · 0 ARTICLES (글)</sub>
 

@@ -2,7 +2,7 @@
 
 # Pipelining & Execution (파이프라인과 명령 실행)
 
-<img src="../../assets/subcategories/03-computer-architecture/07-pipelining-and-execution.jpg" alt="Pipelining &amp; Execution (파이프라인과 명령 실행)" width="100%">
+<img src="../../assets/categories/03-computer-architecture.png" alt="Pipelining &amp; Execution (파이프라인과 명령 실행)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 07 · 0 ARTICLES (글)</sub>
 

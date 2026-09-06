@@ -2,7 +2,7 @@
 
 # Secrets & Key Management (비밀·키 관리)
 
-<img src="../../assets/subcategories/09-security-reliability/11-secrets-and-key-management.jpg" alt="Secrets &amp; Key Management (비밀·키 관리)" width="100%">
+<img src="../../assets/categories/09-security-reliability.png" alt="Secrets &amp; Key Management (비밀·키 관리)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 11 · 0 ARTICLES (글)</sub>
 

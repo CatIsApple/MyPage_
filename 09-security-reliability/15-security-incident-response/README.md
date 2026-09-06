@@ -2,7 +2,7 @@
 
 # Security Incident Response (보안 사고 대응)
 
-<img src="../../assets/subcategories/09-security-reliability/15-security-incident-response.jpg" alt="Security Incident Response (보안 사고 대응)" width="100%">
+<img src="../../assets/categories/09-security-reliability.png" alt="Security Incident Response (보안 사고 대응)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 15 · 0 ARTICLES (글)</sub>
 

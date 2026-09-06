@@ -2,7 +2,7 @@
 
 # Arrays & Linked Lists (배열·연결 리스트)
 
-<img src="../../assets/subcategories/02-data-structures-algorithms/01-arrays-and-linked-lists.jpg" alt="Arrays &amp; Linked Lists (배열·연결 리스트)" width="100%">
+<img src="../../assets/categories/02-data-structures-algorithms.png" alt="Arrays &amp; Linked Lists (배열·연결 리스트)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 01 · 0 ARTICLES (글)</sub>
 

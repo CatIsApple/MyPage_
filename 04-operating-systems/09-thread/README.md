@@ -2,7 +2,7 @@
 
 # Thread (스레드)
 
-<img src="../../assets/subcategories/04-operating-systems/09-thread.jpg" alt="Thread (스레드)" width="100%">
+<img src="../../assets/categories/04-operating-systems.png" alt="Thread (스레드)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 09 · 0 ARTICLES (글)</sub>
 

@@ -2,7 +2,7 @@
 
 # File I/O Flow (파일 입출력 전체 흐름)
 
-<img src="../../assets/subcategories/00-system-overview/04-file-io-flow.jpg" alt="File I/O Flow (파일 입출력 전체 흐름)" width="100%">
+<img src="../../assets/categories/00-system-overview.png" alt="File I/O Flow (파일 입출력 전체 흐름)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 04 · 0 ARTICLES (글)</sub>
 

@@ -2,7 +2,7 @@
 
 # Multicore & Parallelism (멀티코어와 병렬 구조)
 
-<img src="../../assets/subcategories/03-computer-architecture/10-multicore-and-parallelism.jpg" alt="Multicore &amp; Parallelism (멀티코어와 병렬 구조)" width="100%">
+<img src="../../assets/categories/03-computer-architecture.png" alt="Multicore &amp; Parallelism (멀티코어와 병렬 구조)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 10 · 0 ARTICLES (글)</sub>
 

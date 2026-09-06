@@ -2,7 +2,7 @@
 
 # Programs & Executables (프로그램과 실행 파일)
 
-<img src="../../assets/subcategories/01-programming-execution/06-programs-and-executables.jpg" alt="Programs &amp; Executables (프로그램과 실행 파일)" width="100%">
+<img src="../../assets/categories/01-programming-execution.png" alt="Programs &amp; Executables (프로그램과 실행 파일)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 06 · 0 ARTICLES (글)</sub>
 

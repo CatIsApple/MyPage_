@@ -2,7 +2,7 @@
 
 # Deadlock (교착 상태)
 
-<img src="../../assets/subcategories/04-operating-systems/10-deadlock.jpg" alt="Deadlock (교착 상태)" width="100%">
+<img src="../../assets/categories/04-operating-systems.png" alt="Deadlock (교착 상태)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 10 · 0 ARTICLES (글)</sub>
 

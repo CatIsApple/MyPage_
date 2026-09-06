@@ -2,7 +2,7 @@
 
 # CI & Quality Automation (CI·품질 자동화)
 
-<img src="../../assets/subcategories/08-software-engineering/10-ci-and-quality-automation.jpg" alt="CI &amp; Quality Automation (CI·품질 자동화)" width="100%">
+<img src="../../assets/categories/08-software-engineering.png" alt="CI &amp; Quality Automation (CI·품질 자동화)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 10 · 0 ARTICLES (글)</sub>
 

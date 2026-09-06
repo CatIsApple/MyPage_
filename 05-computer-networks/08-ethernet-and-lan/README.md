@@ -2,7 +2,7 @@
 
 # Ethernet & LAN (이더넷·LAN)
 
-<img src="../../assets/subcategories/05-computer-networks/08-ethernet-and-lan.jpg" alt="Ethernet &amp; LAN (이더넷·LAN)" width="100%">
+<img src="../../assets/categories/05-computer-networks.png" alt="Ethernet &amp; LAN (이더넷·LAN)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 08 · 0 ARTICLES (글)</sub>
 

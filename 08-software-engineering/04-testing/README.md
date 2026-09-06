@@ -2,7 +2,7 @@
 
 # Testing (테스트)
 
-<img src="../../assets/subcategories/08-software-engineering/04-testing.jpg" alt="Testing (테스트)" width="100%">
+<img src="../../assets/categories/08-software-engineering.png" alt="Testing (테스트)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 04 · 0 ARTICLES (글)</sub>
 

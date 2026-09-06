@@ -2,7 +2,7 @@
 
 # Runtime & Memory Management (런타임·메모리 관리)
 
-<img src="../../assets/subcategories/01-programming-execution/10-runtime-and-memory-management.jpg" alt="Runtime &amp; Memory Management (런타임·메모리 관리)" width="100%">
+<img src="../../assets/categories/01-programming-execution.png" alt="Runtime &amp; Memory Management (런타임·메모리 관리)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 10 · 0 ARTICLES (글)</sub>
 

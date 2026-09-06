@@ -2,7 +2,7 @@
 
 # Network Security (네트워크 보안)
 
-<img src="../../assets/subcategories/09-security-reliability/10-network-security.jpg" alt="Network Security (네트워크 보안)" width="100%">
+<img src="../../assets/categories/09-security-reliability.png" alt="Network Security (네트워크 보안)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 10 · 0 ARTICLES (글)</sub>
 

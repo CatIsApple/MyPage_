@@ -2,7 +2,7 @@
 
 # Requirements & Design Docs (요구사항·설계 문서)
 
-<img src="../../assets/subcategories/08-software-engineering/06-requirements-and-design-docs.jpg" alt="Requirements &amp; Design Docs (요구사항·설계 문서)" width="100%">
+<img src="../../assets/categories/08-software-engineering.png" alt="Requirements &amp; Design Docs (요구사항·설계 문서)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 06 · 0 ARTICLES (글)</sub>
 

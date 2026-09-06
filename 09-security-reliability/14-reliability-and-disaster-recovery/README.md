@@ -2,7 +2,7 @@
 
 # Reliability & Disaster Recovery (안정성·재해 복구)
 
-<img src="../../assets/subcategories/09-security-reliability/14-reliability-and-disaster-recovery.jpg" alt="Reliability &amp; Disaster Recovery (안정성·재해 복구)" width="100%">
+<img src="../../assets/categories/09-security-reliability.png" alt="Reliability &amp; Disaster Recovery (안정성·재해 복구)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 14 · 0 ARTICLES (글)</sub>
 

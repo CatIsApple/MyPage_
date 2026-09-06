@@ -2,7 +2,7 @@
 
 # Buses, Interrupts & I/O (버스·인터럽트·입출력)
 
-<img src="../../assets/subcategories/03-computer-architecture/05-buses-interrupts-and-io.jpg" alt="Buses, Interrupts &amp; I/O (버스·인터럽트·입출력)" width="100%">
+<img src="../../assets/categories/03-computer-architecture.png" alt="Buses, Interrupts &amp; I/O (버스·인터럽트·입출력)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 05 · 0 ARTICLES (글)</sub>
 

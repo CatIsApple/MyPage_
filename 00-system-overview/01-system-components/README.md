@@ -2,7 +2,7 @@
 
 # System Components (시스템 구성 요소)
 
-<img src="../../assets/subcategories/00-system-overview/01-system-components.jpg" alt="System Components (시스템 구성 요소)" width="100%">
+<img src="../../assets/categories/00-system-overview.png" alt="System Components (시스템 구성 요소)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 01 · 0 ARTICLES (글)</sub>
 

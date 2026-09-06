@@ -2,7 +2,7 @@
 
 # Partitioning & Sharding (파티셔닝·샤딩)
 
-<img src="../../assets/subcategories/07-distributed-systems/08-partitioning-and-sharding.jpg" alt="Partitioning &amp; Sharding (파티셔닝·샤딩)" width="100%">
+<img src="../../assets/categories/07-distributed-systems.png" alt="Partitioning &amp; Sharding (파티셔닝·샤딩)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 08 · 0 ARTICLES (글)</sub>
 

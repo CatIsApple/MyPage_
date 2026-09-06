@@ -2,7 +2,7 @@
 
 # Git & Version Control (Git·버전 관리)
 
-<img src="../../assets/subcategories/08-software-engineering/01-git-and-version-control.jpg" alt="Git &amp; Version Control (Git·버전 관리)" width="100%">
+<img src="../../assets/categories/08-software-engineering.png" alt="Git &amp; Version Control (Git·버전 관리)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 01 · 0 ARTICLES (글)</sub>
 

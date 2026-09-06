@@ -2,7 +2,7 @@
 
 # Supply Chain Security (공급망 보안)
 
-<img src="../../assets/subcategories/09-security-reliability/12-supply-chain-security.jpg" alt="Supply Chain Security (공급망 보안)" width="100%">
+<img src="../../assets/categories/09-security-reliability.png" alt="Supply Chain Security (공급망 보안)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 12 · 0 ARTICLES (글)</sub>
 

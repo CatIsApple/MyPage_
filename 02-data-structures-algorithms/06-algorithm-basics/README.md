@@ -2,7 +2,7 @@
 
 # Algorithm Basics (알고리즘 기본)
 
-<img src="../../assets/subcategories/02-data-structures-algorithms/06-algorithm-basics.jpg" alt="Algorithm Basics (알고리즘 기본)" width="100%">
+<img src="../../assets/categories/02-data-structures-algorithms.png" alt="Algorithm Basics (알고리즘 기본)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 06 · 0 ARTICLES (글)</sub>
 

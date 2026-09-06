@@ -2,7 +2,7 @@
 
 # Exceptions & I/O (예외 처리·입출력)
 
-<img src="../../assets/subcategories/01-programming-execution/05-exceptions-and-io.jpg" alt="Exceptions &amp; I/O (예외 처리·입출력)" width="100%">
+<img src="../../assets/categories/01-programming-execution.png" alt="Exceptions &amp; I/O (예외 처리·입출력)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 05 · 0 ARTICLES (글)</sub>
 

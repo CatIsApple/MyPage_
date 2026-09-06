@@ -2,7 +2,7 @@
 
 # Cryptography Basics (암호 기초)
 
-<img src="../../assets/subcategories/09-security-reliability/04-cryptography-basics.jpg" alt="Cryptography Basics (암호 기초)" width="100%">
+<img src="../../assets/categories/09-security-reliability.png" alt="Cryptography Basics (암호 기초)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 04 · 0 ARTICLES (글)</sub>
 

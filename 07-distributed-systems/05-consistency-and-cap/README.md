@@ -2,7 +2,7 @@
 
 # Consistency & CAP (일관성·CAP)
 
-<img src="../../assets/subcategories/07-distributed-systems/05-consistency-and-cap.jpg" alt="Consistency &amp; CAP (일관성·CAP)" width="100%">
+<img src="../../assets/categories/07-distributed-systems.png" alt="Consistency &amp; CAP (일관성·CAP)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 05 · 0 ARTICLES (글)</sub>
 

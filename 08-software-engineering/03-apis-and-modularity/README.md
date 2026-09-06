@@ -2,7 +2,7 @@
 
 # APIs & Modularity (API·모듈화)
 
-<img src="../../assets/subcategories/08-software-engineering/03-apis-and-modularity.jpg" alt="APIs &amp; Modularity (API·모듈화)" width="100%">
+<img src="../../assets/categories/08-software-engineering.png" alt="APIs &amp; Modularity (API·모듈화)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 03 · 0 ARTICLES (글)</sub>
 

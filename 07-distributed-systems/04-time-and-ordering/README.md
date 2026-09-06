@@ -2,7 +2,7 @@
 
 # Time & Ordering (시간·순서)
 
-<img src="../../assets/subcategories/07-distributed-systems/04-time-and-ordering.jpg" alt="Time &amp; Ordering (시간·순서)" width="100%">
+<img src="../../assets/categories/07-distributed-systems.png" alt="Time &amp; Ordering (시간·순서)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 04 · 0 ARTICLES (글)</sub>
 

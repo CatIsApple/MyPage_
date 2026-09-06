@@ -2,7 +2,7 @@
 
 # NoSQL (비관계형 데이터베이스)
 
-<img src="../../assets/subcategories/06-storage-databases/06-nosql.jpg" alt="NoSQL (비관계형 데이터베이스)" width="100%">
+<img src="../../assets/categories/06-storage-databases.png" alt="NoSQL (비관계형 데이터베이스)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 06 · 0 ARTICLES (글)</sub>
 

@@ -2,7 +2,7 @@
 
 # Configuration & Release Control (설정·릴리스 제어)
 
-<img src="../../assets/subcategories/08-software-engineering/11-configuration-and-release-control.jpg" alt="Configuration &amp; Release Control (설정·릴리스 제어)" width="100%">
+<img src="../../assets/categories/08-software-engineering.png" alt="Configuration &amp; Release Control (설정·릴리스 제어)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 11 · 0 ARTICLES (글)</sub>
 

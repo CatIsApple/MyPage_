@@ -2,7 +2,7 @@
 
 # Network Devices (네트워크 장비)
 
-<img src="../../assets/subcategories/05-computer-networks/09-network-devices.jpg" alt="Network Devices (네트워크 장비)" width="100%">
+<img src="../../assets/categories/05-computer-networks.png" alt="Network Devices (네트워크 장비)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 09 · 0 ARTICLES (글)</sub>
 

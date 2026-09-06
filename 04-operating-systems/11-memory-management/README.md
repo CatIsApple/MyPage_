@@ -2,7 +2,7 @@
 
 # Memory Management (메모리 관리)
 
-<img src="../../assets/subcategories/04-operating-systems/11-memory-management.jpg" alt="Memory Management (메모리 관리)" width="100%">
+<img src="../../assets/categories/04-operating-systems.png" alt="Memory Management (메모리 관리)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 11 · 0 ARTICLES (글)</sub>
 

@@ -2,7 +2,7 @@
 
 # OS Security (운영체제 보안)
 
-<img src="../../assets/subcategories/09-security-reliability/09-os-security.jpg" alt="OS Security (운영체제 보안)" width="100%">
+<img src="../../assets/categories/09-security-reliability.png" alt="OS Security (운영체제 보안)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 09 · 0 ARTICLES (글)</sub>
 

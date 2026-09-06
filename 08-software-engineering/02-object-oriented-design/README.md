@@ -2,7 +2,7 @@
 
 # Object-Oriented Design (객체지향 설계)
 
-<img src="../../assets/subcategories/08-software-engineering/02-object-oriented-design.jpg" alt="Object-Oriented Design (객체지향 설계)" width="100%">
+<img src="../../assets/categories/08-software-engineering.png" alt="Object-Oriented Design (객체지향 설계)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 02 · 0 ARTICLES (글)</sub>
 

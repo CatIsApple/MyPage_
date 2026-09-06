@@ -2,7 +2,7 @@
 
 # Web Request Flow (웹 요청 전체 흐름)
 
-<img src="../../assets/subcategories/00-system-overview/03-web-request-flow.jpg" alt="Web Request Flow (웹 요청 전체 흐름)" width="100%">
+<img src="../../assets/categories/00-system-overview.png" alt="Web Request Flow (웹 요청 전체 흐름)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 03 · 0 ARTICLES (글)</sub>
 

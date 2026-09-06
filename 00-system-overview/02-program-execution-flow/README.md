@@ -2,7 +2,7 @@
 
 # Program Execution Flow (프로그램 실행 전체 흐름)
 
-<img src="../../assets/subcategories/00-system-overview/02-program-execution-flow.jpg" alt="Program Execution Flow (프로그램 실행 전체 흐름)" width="100%">
+<img src="../../assets/categories/00-system-overview.png" alt="Program Execution Flow (프로그램 실행 전체 흐름)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 02 · 1 ARTICLE (글)</sub>
 

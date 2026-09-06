@@ -2,7 +2,7 @@
 
 # SQL (구조화 질의 언어)
 
-<img src="../../assets/subcategories/06-storage-databases/02-sql.jpg" alt="SQL (구조화 질의 언어)" width="100%">
+<img src="../../assets/categories/06-storage-databases.png" alt="SQL (구조화 질의 언어)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 02 · 0 ARTICLES (글)</sub>
 

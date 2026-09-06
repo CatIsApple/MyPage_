@@ -2,7 +2,7 @@
 
 # Authentication (인증)
 
-<img src="../../assets/subcategories/09-security-reliability/02-authentication.jpg" alt="Authentication (인증)" width="100%">
+<img src="../../assets/categories/09-security-reliability.png" alt="Authentication (인증)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 02 · 0 ARTICLES (글)</sub>
 

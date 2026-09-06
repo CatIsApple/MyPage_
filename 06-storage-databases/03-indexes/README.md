@@ -2,7 +2,7 @@
 
 # Indexes (인덱스)
 
-<img src="../../assets/subcategories/06-storage-databases/03-indexes.jpg" alt="Indexes (인덱스)" width="100%">
+<img src="../../assets/categories/06-storage-databases.png" alt="Indexes (인덱스)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 03 · 0 ARTICLES (글)</sub>
 

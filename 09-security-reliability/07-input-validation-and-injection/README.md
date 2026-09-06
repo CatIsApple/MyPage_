@@ -2,7 +2,7 @@
 
 # Input Validation & Injection (입력 검증·인젝션)
 
-<img src="../../assets/subcategories/09-security-reliability/07-input-validation-and-injection.jpg" alt="Input Validation &amp; Injection (입력 검증·인젝션)" width="100%">
+<img src="../../assets/categories/09-security-reliability.png" alt="Input Validation &amp; Injection (입력 검증·인젝션)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 07 · 0 ARTICLES (글)</sub>
 

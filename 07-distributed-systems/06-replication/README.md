@@ -2,7 +2,7 @@
 
 # Replication (복제)
 
-<img src="../../assets/subcategories/07-distributed-systems/06-replication.jpg" alt="Replication (복제)" width="100%">
+<img src="../../assets/categories/07-distributed-systems.png" alt="Replication (복제)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 06 · 0 ARTICLES (글)</sub>
 

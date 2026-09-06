@@ -2,7 +2,7 @@
 
 # Data Modeling (데이터 모델링)
 
-<img src="../../assets/subcategories/06-storage-databases/08-data-modeling.jpg" alt="Data Modeling (데이터 모델링)" width="100%">
+<img src="../../assets/categories/06-storage-databases.png" alt="Data Modeling (데이터 모델링)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 08 · 0 ARTICLES (글)</sub>
 

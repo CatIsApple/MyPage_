@@ -2,7 +2,7 @@
 
 # Variables, Types & Control Flow (변수·자료형·제어문)
 
-<img src="../../assets/subcategories/01-programming-execution/01-variables-types-and-control-flow.jpg" alt="Variables, Types &amp; Control Flow (변수·자료형·제어문)" width="100%">
+<img src="../../assets/categories/01-programming-execution.png" alt="Variables, Types &amp; Control Flow (변수·자료형·제어문)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 01 · 0 ARTICLES (글)</sub>
 

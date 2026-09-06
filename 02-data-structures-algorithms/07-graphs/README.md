@@ -2,7 +2,7 @@
 
 # Graphs (그래프)
 
-<img src="../../assets/subcategories/02-data-structures-algorithms/07-graphs.jpg" alt="Graphs (그래프)" width="100%">
+<img src="../../assets/categories/02-data-structures-algorithms.png" alt="Graphs (그래프)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 07 · 0 ARTICLES (글)</sub>
 

@@ -2,7 +2,7 @@
 
 # Concurrency & Synchronization (동시성·동기화)
 
-<img src="../../assets/subcategories/04-operating-systems/03-concurrency-and-synchronization.jpg" alt="Concurrency &amp; Synchronization (동시성·동기화)" width="100%">
+<img src="../../assets/categories/04-operating-systems.png" alt="Concurrency &amp; Synchronization (동시성·동기화)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 03 · 0 ARTICLES (글)</sub>
 

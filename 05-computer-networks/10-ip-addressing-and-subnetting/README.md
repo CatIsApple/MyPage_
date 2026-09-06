@@ -2,7 +2,7 @@
 
 # IP Addressing & Subnetting (IP 주소와 서브넷)
 
-<img src="../../assets/subcategories/05-computer-networks/10-ip-addressing-and-subnetting.jpg" alt="IP Addressing &amp; Subnetting (IP 주소와 서브넷)" width="100%">
+<img src="../../assets/categories/05-computer-networks.png" alt="IP Addressing &amp; Subnetting (IP 주소와 서브넷)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 10 · 0 ARTICLES (글)</sub>
 

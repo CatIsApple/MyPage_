@@ -2,7 +2,7 @@
 
 # Failure & Recovery Flow (장애와 복구 전체 흐름)
 
-<img src="../../assets/subcategories/00-system-overview/06-failure-and-recovery-flow.jpg" alt="Failure &amp; Recovery Flow (장애와 복구 전체 흐름)" width="100%">
+<img src="../../assets/categories/00-system-overview.png" alt="Failure &amp; Recovery Flow (장애와 복구 전체 흐름)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 06 · 0 ARTICLES (글)</sub>
 

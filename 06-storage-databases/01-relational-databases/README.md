@@ -2,7 +2,7 @@
 
 # Relational Databases (관계형 데이터베이스)
 
-<img src="../../assets/subcategories/06-storage-databases/01-relational-databases.jpg" alt="Relational Databases (관계형 데이터베이스)" width="100%">
+<img src="../../assets/categories/06-storage-databases.png" alt="Relational Databases (관계형 데이터베이스)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 01 · 0 ARTICLES (글)</sub>
 

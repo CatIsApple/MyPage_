@@ -2,7 +2,7 @@
 
 # Wireless Networking (무선 네트워크)
 
-<img src="../../assets/subcategories/05-computer-networks/01-wireless-networking.jpg" alt="Wireless Networking (무선 네트워크)" width="100%">
+<img src="../../assets/categories/05-computer-networks.png" alt="Wireless Networking (무선 네트워크)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 01 · 0 ARTICLES (글)</sub>
 

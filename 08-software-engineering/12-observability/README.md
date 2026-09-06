@@ -2,7 +2,7 @@
 
 # Observability (관측성)
 
-<img src="../../assets/subcategories/08-software-engineering/12-observability.jpg" alt="Observability (관측성)" width="100%">
+<img src="../../assets/categories/08-software-engineering.png" alt="Observability (관측성)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 12 · 0 ARTICLES (글)</sub>
 

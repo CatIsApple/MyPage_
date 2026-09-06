@@ -2,7 +2,7 @@
 
 # CPU Scheduling (CPU 스케줄링)
 
-<img src="../../assets/subcategories/04-operating-systems/04-cpu-scheduling.jpg" alt="CPU Scheduling (CPU 스케줄링)" width="100%">
+<img src="../../assets/categories/04-operating-systems.png" alt="CPU Scheduling (CPU 스케줄링)" width="100%">
 
 <sub>SUBCATEGORY (하위 카테고리) 04 · 0 ARTICLES (글)</sub>
 

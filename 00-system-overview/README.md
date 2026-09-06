@@ -11,44 +11,38 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="../assets/categories/00-system-overview.png" alt="System Components (시스템 구성 요소)" width="100%" align="top"><a href="./01-system-components/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 01 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./01-system-components/">System Components (시스템 구성 요소)</a></strong>
+      <strong>System Components (시스템 구성 요소)</strong><br>
+      <a href="./01-system-components/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
-      <img src="../assets/categories/00-system-overview.png" alt="Program Execution Flow (프로그램 실행 전체 흐름)" width="100%" align="top"><a href="./02-program-execution-flow/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 02 · 1 ARTICLE (글)</sub><br>
-      <strong><a href="./02-program-execution-flow/">Program Execution Flow (프로그램 실행 전체 흐름)</a></strong>
+      <strong>Program Execution Flow (프로그램 실행 전체 흐름)</strong><br>
+      <a href="./02-program-execution-flow/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="../assets/categories/00-system-overview.png" alt="Web Request Flow (웹 요청 전체 흐름)" width="100%" align="top"><a href="./03-web-request-flow/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 03 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./03-web-request-flow/">Web Request Flow (웹 요청 전체 흐름)</a></strong>
+      <strong>Web Request Flow (웹 요청 전체 흐름)</strong><br>
+      <a href="./03-web-request-flow/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
-      <img src="../assets/categories/00-system-overview.png" alt="File I/O Flow (파일 입출력 전체 흐름)" width="100%" align="top"><a href="./04-file-io-flow/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 04 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./04-file-io-flow/">File I/O Flow (파일 입출력 전체 흐름)</a></strong>
+      <strong>File I/O Flow (파일 입출력 전체 흐름)</strong><br>
+      <a href="./04-file-io-flow/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="../assets/categories/00-system-overview.png" alt="Concurrent Execution Flow (동시 실행 전체 흐름)" width="100%" align="top"><a href="./05-concurrent-execution-flow/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 05 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./05-concurrent-execution-flow/">Concurrent Execution Flow (동시 실행 전체 흐름)</a></strong>
+      <strong>Concurrent Execution Flow (동시 실행 전체 흐름)</strong><br>
+      <a href="./05-concurrent-execution-flow/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
-      <img src="../assets/categories/00-system-overview.png" alt="Failure &amp; Recovery Flow (장애와 복구 전체 흐름)" width="100%" align="top"><a href="./06-failure-and-recovery-flow/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 06 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./06-failure-and-recovery-flow/">Failure &amp; Recovery Flow (장애와 복구 전체 흐름)</a></strong>
+      <strong>Failure &amp; Recovery Flow (장애와 복구 전체 흐름)</strong><br>
+      <a href="./06-failure-and-recovery-flow/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>
 </table>

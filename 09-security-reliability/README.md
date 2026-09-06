@@ -11,108 +11,93 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="../assets/categories/09-security-reliability.png" alt="Security Principles &amp; Threat Modeling (보안 원칙·위협 모델)" width="100%" align="top"><a href="./01-security-principles-and-threat-modeling/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 01 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./01-security-principles-and-threat-modeling/">Security Principles &amp; Threat Modeling (보안 원칙·위협 모델)</a></strong>
+      <strong>Security Principles &amp; Threat Modeling (보안 원칙·위협 모델)</strong><br>
+      <a href="./01-security-principles-and-threat-modeling/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
-      <img src="../assets/categories/09-security-reliability.png" alt="Authentication (인증)" width="100%" align="top"><a href="./02-authentication/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 02 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./02-authentication/">Authentication (인증)</a></strong>
+      <strong>Authentication (인증)</strong><br>
+      <a href="./02-authentication/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="../assets/categories/09-security-reliability.png" alt="Authorization &amp; Sessions (인가·세션)" width="100%" align="top"><a href="./03-authorization-and-sessions/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 03 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./03-authorization-and-sessions/">Authorization &amp; Sessions (인가·세션)</a></strong>
+      <strong>Authorization &amp; Sessions (인가·세션)</strong><br>
+      <a href="./03-authorization-and-sessions/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
-      <img src="../assets/categories/09-security-reliability.png" alt="Cryptography Basics (암호 기초)" width="100%" align="top"><a href="./04-cryptography-basics/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 04 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./04-cryptography-basics/">Cryptography Basics (암호 기초)</a></strong>
+      <strong>Cryptography Basics (암호 기초)</strong><br>
+      <a href="./04-cryptography-basics/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="../assets/categories/09-security-reliability.png" alt="PKI &amp; TLS (공개키 기반 구조·전송 계층 보안)" width="100%" align="top"><a href="./05-pki-and-tls/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 05 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./05-pki-and-tls/">PKI &amp; TLS (공개키 기반 구조·전송 계층 보안)</a></strong>
+      <strong>PKI &amp; TLS (공개키 기반 구조·전송 계층 보안)</strong><br>
+      <a href="./05-pki-and-tls/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
-      <img src="../assets/categories/09-security-reliability.png" alt="Web Security (웹 보안)" width="100%" align="top"><a href="./06-web-security/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 06 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./06-web-security/">Web Security (웹 보안)</a></strong>
+      <strong>Web Security (웹 보안)</strong><br>
+      <a href="./06-web-security/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="../assets/categories/09-security-reliability.png" alt="Input Validation &amp; Injection (입력 검증·인젝션)" width="100%" align="top"><a href="./07-input-validation-and-injection/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 07 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./07-input-validation-and-injection/">Input Validation &amp; Injection (입력 검증·인젝션)</a></strong>
+      <strong>Input Validation &amp; Injection (입력 검증·인젝션)</strong><br>
+      <a href="./07-input-validation-and-injection/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
-      <img src="../assets/categories/09-security-reliability.png" alt="Memory &amp; Concurrency Security (메모리·동시성 보안)" width="100%" align="top"><a href="./08-memory-and-concurrency-security/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 08 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./08-memory-and-concurrency-security/">Memory &amp; Concurrency Security (메모리·동시성 보안)</a></strong>
+      <strong>Memory &amp; Concurrency Security (메모리·동시성 보안)</strong><br>
+      <a href="./08-memory-and-concurrency-security/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="../assets/categories/09-security-reliability.png" alt="OS Security (운영체제 보안)" width="100%" align="top"><a href="./09-os-security/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 09 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./09-os-security/">OS Security (운영체제 보안)</a></strong>
+      <strong>OS Security (운영체제 보안)</strong><br>
+      <a href="./09-os-security/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
-      <img src="../assets/categories/09-security-reliability.png" alt="Network Security (네트워크 보안)" width="100%" align="top"><a href="./10-network-security/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 10 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./10-network-security/">Network Security (네트워크 보안)</a></strong>
+      <strong>Network Security (네트워크 보안)</strong><br>
+      <a href="./10-network-security/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="../assets/categories/09-security-reliability.png" alt="Secrets &amp; Key Management (비밀·키 관리)" width="100%" align="top"><a href="./11-secrets-and-key-management/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 11 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./11-secrets-and-key-management/">Secrets &amp; Key Management (비밀·키 관리)</a></strong>
+      <strong>Secrets &amp; Key Management (비밀·키 관리)</strong><br>
+      <a href="./11-secrets-and-key-management/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
-      <img src="../assets/categories/09-security-reliability.png" alt="Supply Chain Security (공급망 보안)" width="100%" align="top"><a href="./12-supply-chain-security/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 12 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./12-supply-chain-security/">Supply Chain Security (공급망 보안)</a></strong>
+      <strong>Supply Chain Security (공급망 보안)</strong><br>
+      <a href="./12-supply-chain-security/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="../assets/categories/09-security-reliability.png" alt="Data Security &amp; Privacy (데이터 보안·개인정보)" width="100%" align="top"><a href="./13-data-security-and-privacy/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 13 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./13-data-security-and-privacy/">Data Security &amp; Privacy (데이터 보안·개인정보)</a></strong>
+      <strong>Data Security &amp; Privacy (데이터 보안·개인정보)</strong><br>
+      <a href="./13-data-security-and-privacy/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
     <td width="50%" valign="top">
-      <img src="../assets/categories/09-security-reliability.png" alt="Reliability &amp; Disaster Recovery (안정성·재해 복구)" width="100%" align="top"><a href="./14-reliability-and-disaster-recovery/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 14 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./14-reliability-and-disaster-recovery/">Reliability &amp; Disaster Recovery (안정성·재해 복구)</a></strong>
+      <strong>Reliability &amp; Disaster Recovery (안정성·재해 복구)</strong><br>
+      <a href="./14-reliability-and-disaster-recovery/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="../assets/categories/09-security-reliability.png" alt="Security Incident Response (보안 사고 대응)" width="100%" align="top"><a href="./15-security-incident-response/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
-      <br>
       <sub>SUBCATEGORY (하위 카테고리) 15 · 0 ARTICLES (글)</sub><br>
-      <strong><a href="./15-security-incident-response/">Security Incident Response (보안 사고 대응)</a></strong>
+      <strong>Security Incident Response (보안 사고 대응)</strong><br>
+      <a href="./15-security-incident-response/"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
     </td>
   </tr>
 </table>

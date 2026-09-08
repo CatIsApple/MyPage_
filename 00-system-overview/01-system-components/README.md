@@ -4,9 +4,29 @@
 
 <a href="#articles-글"><img src="../../assets/categories/00-system-overview.png" alt="System Components (시스템 구성 요소)" width="100%" align="top"></a><a href="#articles-글"><img src="../../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
-<sub>SUBCATEGORY (하위 카테고리) 01 · 1 ARTICLE (글)</sub>
+<sub>SUBCATEGORY (하위 카테고리) 01 · 2 ARTICLES (글)</sub>
 
 ## Articles (글)
+
+<table>
+  <tr>
+    <td rowspan="2" width="40%" valign="top">
+      <a href="./firmware/">
+        <img src="../../assets/articles/firmware/cover.png" alt="Firmware (펌웨어)" width="100%">
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <sub>SYSTEM COMPONENTS (시스템 구성 요소) · 2026.09.09</sub><br>
+      <strong>Firmware (펌웨어)</strong><br>
+      펌웨어의 역할과 소프트웨어와의 차이, 부팅·하드웨어 제어 과정과 보안을 정리했다.
+    </td>
+  </tr>
+  <tr height="1">
+    <td width="60%" height="1" valign="bottom">
+      <strong><a href="./firmware/">Read Article (글 읽기) →</a></strong>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>

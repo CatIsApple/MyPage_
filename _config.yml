@@ -1,0 +1,10 @@
+title: MyPage_
+description: Computer System Notes
+lang: ko-KR
+markdown: kramdown
+permalink: pretty
+baseurl: /MyPage_
+url: https://catisapple.github.io
+exclude:
+  - README.md
+

@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <title>{{ page.title | default: site.title }}</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        --background: #ffffff;
+        --surface: #f6f8fa;
+        --foreground: #1f2328;
+        --muted: #59636e;
+        --border: #d1d9e0;
+        --link: #0969da;
+        --shadow: 0 12px 30px rgba(31, 35, 40, 0.08);
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --background: #0d1117;
+          --surface: #151b23;
+          --foreground: #f0f6fc;
+          --muted: #9198a1;
+          --border: #3d444d;
+          --link: #4493f8;
+          --shadow: 0 12px 30px rgba(0, 0, 0, 0.24);
+        }
+      }
+
+      * { box-sizing: border-box; }
+
+      html { scroll-behavior: smooth; }
+
+      body {
+        margin: 0;
+        background: var(--background);
+        color: var(--foreground);
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        font-size: 16px;
+        line-height: 1.75;
+        word-break: keep-all;
+      }
+
+      .site-header {
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        border-bottom: 1px solid color-mix(in srgb, var(--border) 75%, transparent);
+        background: color-mix(in srgb, var(--background) 88%, transparent);
+        backdrop-filter: blur(18px);
+      }
+
+      .site-header-inner {
+        width: min(100% - 40px, 960px);
+        height: 64px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px;
+      }
+
+      .brand {
+        color: var(--foreground);
+        font-size: 20px;
+        font-weight: 750;
+        text-decoration: none;
+        letter-spacing: -0.03em;
+      }
+
+      .site-label {
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      main {
+        width: min(100% - 40px, 920px);
+        margin: 0 auto;
+        padding: 64px 0 96px;
+      }
+
+      h1, h2, h3, h4 { line-height: 1.35; letter-spacing: -0.025em; }
+      h1 { margin: 0 0 10px; font-size: clamp(34px, 6vw, 52px); }
+      h2 { margin-top: 60px; padding-bottom: 10px; border-bottom: 1px solid var(--border); font-size: 28px; }
+      h3 { margin-top: 38px; font-size: 22px; }
+      h4 { margin-top: 30px; font-size: 18px; }
+      p { margin: 17px 0; }
+      sub, small { color: var(--muted); }
+      a { color: var(--link); text-underline-offset: 3px; }
+
+      img {
+        display: block;
+        width: 100%;
+        height: auto;
+        margin: 30px 0;
+        border: 1px solid var(--border);
+        border-radius: 14px;
+        background: #000;
+      }
+
+      code {
+        padding: 2px 6px;
+        border-radius: 6px;
+        background: var(--surface);
+        font-size: 0.92em;
+      }
+
+      pre {
+        overflow-x: auto;
+        padding: 18px;
+        border: 1px solid var(--border);
+        border-radius: 10px;
+        background: var(--surface);
+      }
+
+      pre code { padding: 0; background: transparent; }
+
+      blockquote {
+        margin: 26px 0;
+        padding: 14px 20px;
+        border-left: 4px solid var(--link);
+        background: var(--surface);
+      }
+
+      blockquote p { margin: 0; }
+      ul, ol { padding-left: 26px; }
+      li + li { margin-top: 6px; }
+
+      table {
+        width: 100%;
+        margin: 26px 0;
+        border-collapse: collapse;
+        display: block;
+        overflow-x: auto;
+      }
+
+      th, td {
+        min-width: 150px;
+        padding: 11px 13px;
+        border: 1px solid var(--border);
+        text-align: left;
+        vertical-align: top;
+      }
+
+      th { background: var(--surface); }
+      hr { margin: 52px 0; border: 0; border-top: 1px solid var(--border); }
+
+      .page-intro {
+        margin-bottom: 52px;
+      }
+
+      .page-intro p {
+        max-width: 620px;
+        color: var(--muted);
+        font-size: 18px;
+      }
+
+      .section-title {
+        margin: 0 0 20px;
+        padding: 0;
+        border: 0;
+        font-size: 22px;
+      }
+
+      .post-list {
+        display: grid;
+        gap: 22px;
+      }
+
+      .post-card {
+        display: grid;
+        grid-template-columns: minmax(240px, 40%) 1fr;
+        overflow: hidden;
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        background: var(--surface);
+        color: var(--foreground);
+        text-decoration: none;
+        box-shadow: var(--shadow);
+        transition: transform 160ms ease, border-color 160ms ease;
+      }
+
+      .post-card:hover {
+        transform: translateY(-2px);
+        border-color: var(--link);
+      }
+
+      .post-card img {
+        height: 100%;
+        min-height: 220px;
+        margin: 0;
+        border: 0;
+        border-radius: 0;
+        object-fit: cover;
+      }
+
+      .post-card-body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 28px;
+      }
+
+      .post-card h3 { margin: 8px 0 10px; font-size: 23px; }
+      .post-card p { margin: 0 0 18px; color: var(--muted); }
+      .post-card span { color: var(--link); font-weight: 700; }
+
+      .site-footer {
+        width: min(100% - 40px, 920px);
+        margin: 0 auto;
+        padding: 0 0 48px;
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      @media (max-width: 680px) {
+        body { font-size: 15px; word-break: normal; }
+        main { width: min(100% - 28px, 920px); padding: 42px 0 72px; }
+        .site-header-inner, .site-footer { width: min(100% - 28px, 920px); }
+        .site-label { display: none; }
+        h2 { margin-top: 46px; font-size: 24px; }
+        .post-card { grid-template-columns: 1fr; }
+        .post-card img { min-height: 0; aspect-ratio: 16 / 10; }
+        .post-card-body { padding: 22px; }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="site-header-inner">
+        <a class="brand" href="{{ site.baseurl }}/">MyPage_</a>
+        <span class="site-label">Computer System Notes (컴퓨터 시스템 기록)</span>
+      </div>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer class="site-footer">MyPage_ · Computer System Notes</footer>
+  </body>
+</html>
+

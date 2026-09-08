@@ -109,8 +109,7 @@
   </tr>
   <tr height="1">
     <td width="60%" height="1" valign="bottom">
-      <strong><a href="./01-system-components/runtime/">Read Article (글 읽기) →</a></strong>&nbsp;&nbsp;·&nbsp;&nbsp;
-      <strong><a href="https://catisapple.github.io/MyPage_/00-system-overview/01-system-components/runtime/">Read on Pages (글만 보기) ↗</a></strong>
+      <strong><a href="./01-system-components/runtime/">Read Article (글 읽기) →</a></strong>
     </td>
   </tr>
 </table>

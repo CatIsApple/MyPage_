@@ -42,4 +42,3 @@ description: 컴퓨터 시스템을 공부하며 정리한 글입니다.
     </span>
   </a>
 </section>
-

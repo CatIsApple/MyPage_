@@ -4,7 +4,7 @@
 
 <sub>SYSTEM COMPONENTS (시스템 구성 요소) · 2026.09.07</sub>
 
-<img src="../../../assets/articles/runtime/cover.jpg" alt="Runtime (런타임)" width="100%">
+<img src="../../../assets/articles/runtime/cover.png" alt="Runtime (런타임)" width="100%">
 
 ## Runtime Concepts 런타임 개념
 

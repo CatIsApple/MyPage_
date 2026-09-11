@@ -12,7 +12,7 @@
   <tr>
     <td rowspan="2" width="40%" valign="top">
       <a href="./executable-bytecode/">
-        <img src="../../assets/articles/executable-bytecode/cover.jpg" alt="Executable &amp; Bytecode (실행 파일과 바이트코드)" width="100%">
+        <img src="../../assets/articles/executable-bytecode/cover.png" alt="Executable &amp; Bytecode (실행 파일과 바이트코드)" width="100%">
       </a>
     </td>
     <td width="60%" valign="top">
@@ -32,7 +32,7 @@
   <tr>
     <td rowspan="2" width="40%" valign="top">
       <a href="./compilation-interpretation/">
-        <img src="../../assets/articles/compilation-interpretation/cover.jpg" alt="Compilation &amp; Interpretation (컴파일과 해석)" width="100%">
+        <img src="../../assets/articles/compilation-interpretation/cover.png" alt="Compilation &amp; Interpretation (컴파일과 해석)" width="100%">
       </a>
     </td>
     <td width="60%" valign="top">

@@ -32,7 +32,7 @@
   <tr>
     <td rowspan="2" width="40%" valign="top">
       <a href="./runtime/">
-        <img src="../../assets/articles/runtime/cover.jpg" alt="Runtime (런타임)" width="100%">
+        <img src="../../assets/articles/runtime/cover.png" alt="Runtime (런타임)" width="100%">
       </a>
     </td>
     <td width="60%" valign="top">

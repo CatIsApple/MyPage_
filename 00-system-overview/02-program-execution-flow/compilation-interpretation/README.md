@@ -4,7 +4,7 @@
 
 <sub>PROGRAM EXECUTION FLOW (프로그램 실행 전체 흐름) · 2026.09.05</sub>
 
-<img src="../../../assets/articles/compilation-interpretation/cover.jpg" alt="Compilation &amp; Interpretation (컴파일과 해석)" width="100%">
+<img src="../../../assets/articles/compilation-interpretation/cover.png" alt="Compilation &amp; Interpretation (컴파일과 해석)" width="100%">
 
 ## Compilation 컴파일
 

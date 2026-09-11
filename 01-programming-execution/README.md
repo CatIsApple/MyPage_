@@ -4,7 +4,7 @@
 
 <a href="#subcategories-하위-카테고리"><img src="../assets/categories/01-programming-execution.png" alt="01 . Programming &amp; Execution (프로그래밍과 실행)" width="100%" align="top"></a><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
-<sub>11 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub>
+<sub>11 SUBCATEGORIES (하위 카테고리) · 2 ARTICLES (글)</sub>
 
 ## Subcategories (하위 카테고리)
 
@@ -81,7 +81,7 @@
 <table>
   <tr>
     <td valign="middle">
-      <sub>SUBCATEGORY (하위 카테고리) 06 · 0 ARTICLES (글)</sub><br>
+      <sub>SUBCATEGORY (하위 카테고리) 06 · 2 ARTICLES (글)</sub><br>
       <strong>Programs &amp; Executables (프로그램과 실행 파일)</strong><br><br>
     </td>
   </tr>
@@ -158,6 +158,28 @@
   <tr>
     <td colspan="2" valign="bottom">
       <strong><a href="./11-functional-and-async-programming/">View Category (카테고리 보기) →</a></strong>
+    </td>
+  </tr>
+</table>
+
+## Latest in This Category (이 카테고리의 최신 글)
+
+<table>
+  <tr>
+    <td rowspan="2" width="40%" valign="top">
+      <a href="./06-programs-and-executables/executable/">
+        <img src="../assets/articles/executable/cover.png" alt="Executable (실행 파일)" width="100%">
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <sub>PROGRAMS &amp; EXECUTABLES (프로그램과 실행 파일) · 2026.09.11</sub><br>
+      <strong>Executable (실행 파일)</strong><br>
+      실행 파일의 생성부터 ABI 검증, 메모리 로딩과 런타임 초기화까지 실행 과정을 정리했다.
+    </td>
+  </tr>
+  <tr height="1">
+    <td width="60%" height="1" valign="bottom">
+      <strong><a href="./06-programs-and-executables/executable/">Read Article (글 읽기) →</a></strong>
     </td>
   </tr>
 </table>

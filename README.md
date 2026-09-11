@@ -1,6 +1,6 @@
 # MyPage_
 
-<sub>COMPUTER SYSTEM (컴퓨터 시스템) · 10 MAIN CATEGORIES (메인 카테고리) · 116 SUBCATEGORIES (하위 카테고리) · 4 ARTICLES (글)</sub>
+<sub>COMPUTER SYSTEM (컴퓨터 시스템) · 10 MAIN CATEGORIES (메인 카테고리) · 116 SUBCATEGORIES (하위 카테고리) · 6 ARTICLES (글)</sub>
 
 <a href="./00-system-overview/"><img src="./assets/categories/00-system-overview.png" alt="System Overview (시스템 전체 흐름)" width="100%"></a>
 
@@ -22,19 +22,19 @@
 <table>
   <tr>
     <td rowspan="2" width="40%" valign="top">
-      <a href="./00-system-overview/01-system-components/firmware/">
-        <img src="./assets/articles/firmware/cover.png" alt="Firmware (펌웨어)" width="100%">
+      <a href="./01-programming-execution/06-programs-and-executables/executable/">
+        <img src="./assets/articles/executable/cover.png" alt="Executable (실행 파일)" width="100%">
       </a>
     </td>
     <td width="60%" valign="top">
-      <sub>SYSTEM COMPONENTS (시스템 구성 요소) · 2026.09.09</sub><br>
-      <strong>Firmware (펌웨어)</strong><br>
-      펌웨어의 역할과 소프트웨어와의 차이, 부팅·하드웨어 제어 과정과 보안을 정리했다.
+      <sub>PROGRAMS &amp; EXECUTABLES (프로그램과 실행 파일) · 2026.09.11</sub><br>
+      <strong>Executable (실행 파일)</strong><br>
+      실행 파일의 생성부터 ABI 검증, 메모리 로딩과 런타임 초기화까지 실행 과정을 정리했다.
     </td>
   </tr>
   <tr height="1">
     <td width="60%" height="1" valign="bottom">
-      <strong><a href="./00-system-overview/01-system-components/firmware/">Read Article (글 읽기) →</a></strong>
+      <strong><a href="./01-programming-execution/06-programs-and-executables/executable/">Read Article (글 읽기) →</a></strong>
     </td>
   </tr>
 </table>

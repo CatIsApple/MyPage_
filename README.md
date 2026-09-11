@@ -1,22 +1,5 @@
 # MyPage_
 
-<sub>COMPUTER SYSTEM (컴퓨터 시스템) · 10 MAIN CATEGORIES (메인 카테고리) · 116 SUBCATEGORIES (하위 카테고리) · 6 ARTICLES (글)</sub>
-
-<a href="./00-system-overview/"><img src="./assets/categories/00-system-overview.png" alt="System Overview (시스템 전체 흐름)" width="100%"></a>
-
-<p>
-  <strong><a href="./00-system-overview/">00 . System Overview (시스템 전체 흐름) (6)</a></strong> ·
-  <strong><a href="./01-programming-execution/">01 . Programming &amp; Execution (프로그래밍과 실행) (11)</a></strong> ·
-  <strong><a href="./02-data-structures-algorithms/">02 . Data Structures &amp; Algorithms (자료구조와 알고리즘) (9)</a></strong> ·
-  <strong><a href="./03-computer-architecture/">03 . Computer Architecture (컴퓨터 구조) (10)</a></strong> ·
-  <strong><a href="./04-operating-systems/">04 . Operating Systems (운영체제) (13)</a></strong> ·
-  <strong><a href="./05-computer-networks/">05 . Computer Networks (컴퓨터 네트워크) (14)</a></strong> ·
-  <strong><a href="./06-storage-databases/">06 . Storage &amp; Databases (저장장치와 데이터베이스) (12)</a></strong> ·
-  <strong><a href="./07-distributed-systems/">07 . Distributed Systems (분산 시스템과 시스템 설계) (13)</a></strong> ·
-  <strong><a href="./08-software-engineering/">08 . Software Engineering (소프트웨어 공학과 운영) (13)</a></strong> ·
-  <strong><a href="./09-security-reliability/">09 . Security &amp; Reliability (보안과 안정성) (15)</a></strong>
-</p>
-
 ## Latest (최신 글)
 
 <table>

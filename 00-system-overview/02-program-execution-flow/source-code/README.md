@@ -13,6 +13,8 @@
 
 우리는 고성능 코드를 설계하고 구현하기 위해, 내부적인 지식도 알 필요가 있다.
 
+<img src="../../../assets/articles/source-code/02-source-code-concepts.png" alt="소스 코드와 목적 코드, 고급 언어와 저급 언어의 관계" width="100%">
+
 ---
 
 ## Source Code와 High Level Language
@@ -88,6 +90,8 @@ mov [a], eax
 
 고급 언어는 이렇게 **여러 개의 저급 명령을 한 줄로 표현**한다.
 
+<img src="../../../assets/articles/source-code/03-language-abstraction.png" alt="고급 언어와 저급 언어의 추상화 수준 비교" width="100%">
+
 High Level Language의 특징
 
 - 사람이 읽고 쓰기 쉬운 문법을 사용한다.
@@ -130,6 +134,8 @@ Windows에서는 `.obj`, Linux / macOS에서는 `.o` 확장자를 가진 파일�
 이 파일은 기계어로 되어 있어서 메모장으로 열어보면 알아볼 수 없는 글자들만 보인다.
 
 그리고 아직 완성된 프로그램이 아니다. 여러 오브젝트 파일과 라이브러리를 하나로 합치는 **링킹(Linking)** 과정을 거쳐야 비로소 실행 가능한 프로그램(.exe 등)이 된다.
+
+<img src="../../../assets/articles/source-code/04-object-code-linking.png" alt="소스 코드가 오브젝트 코드를 거쳐 실행 파일이 되는 과정" width="100%">
 
 ### Low Level Language 저급 언어
 

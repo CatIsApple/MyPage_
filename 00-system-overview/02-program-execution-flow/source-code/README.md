@@ -1,8 +1,9 @@
-<sub><a href="../../../">MyPage_</a> / <a href="../../">00 . System Overview (시스템 전체 흐름)</a> / <a href="../">System Components (시스템 구성 요소)</a></sub>
+<sub><a href="../../../">MyPage_</a> / <a href="../../">00 . System Overview (시스템 전체 흐름)</a> / <a href="../">Program Execution Flow (프로그램 실행 전체 흐름)</a></sub>
 
-# Runtime (런타임)
+# Source Code (소스 코드)
 
-<sub>SYSTEM COMPONENTS (시스템 구성 요소) · 2026.09.21</sub>
+<sub>PROGRAM EXECUTION FLOW (프로그램 실행 전체 흐름) · 2026.09.21</sub>
+
 <img src="../../../assets/articles/source-code/cover.png" alt="Source Code (소스 코드)" width="100%">
 
 ## 왜 알아야 하는가?
@@ -27,11 +28,7 @@ Source Code(소스코드)와 High Level Language(고급 언어)에 대한 관계
 우리가 생각하는 추상적인 설계도가 아닌,
 컴퓨터가 읽을 수 있고 명령을 수행할 수 있을 만큼 메우 세밀하고 구체적으로 짜인 설계도다.
 
-<aside>
-
-Source Code의 “Source = **근원**” 이란 뜻으로, 프로그램의 “**근원**”이라는 뜻이다.
-
-</aside>
+> Source Code의 “Source = **근원**” 이란 뜻으로, 프로그램의 “**근원**”이라는 뜻이다.
 
 #### Source Code와 프로그래밍 언어
 
@@ -122,11 +119,7 @@ CPU가 이해할 수 있는 것은 **0과 1로 이루어진 기계어**뿐이다
 
 따라서 우리가 작성한 소스 코드는 반드시 기계어로 번역되어야 하고, 이렇게 번역된 결과물이 오브젝트 코드다.
 
-<aside>
-
-Source Code의 “Source = 근원”이 프로그램의 출발점이라면, Object Code의 “Object = 목적물, 결과물”은 번역을 거쳐 나온 도착점이라고 보면 된다. 
-
-</aside>
+> Source Code의 “Source = 근원”이 프로그램의 출발점이라면, Object Code의 “Object = 목적물, 결과물”은 번역을 거쳐 나온 도착점이라고 보면 된다.
 
 #### **Object Code와 파일**
 
@@ -171,12 +164,8 @@ Low Level Language는 **하드웨어(CPU)에 가까운 언어**를 말한다.
 - 코드가 길고 복잡하며 읽고 쓰기가 어렵다.
 - 대신 하드웨어를 세밀하게 제어할 수 있고 실행 속도가 빠르다.
 
-<aside>
-
-High Level Language는 “이 방을 청소해줘”라고 말하는 것이고,
-Low Level Language는 “오른쪽 팔을 30cm 뻗고, 빗자루를 잡고, 앞으로 한 걸음 걷고…”처럼 하나하나 지시하는 것이다.  
-
-</aside>
+> High Level Language는 “이 방을 청소해줘”라고 말하는 것이고,<br>
+> Low Level Language는 “오른쪽 팔을 30cm 뻗고, 빗자루를 잡고, 앞으로 한 걸음 걷고…”처럼 하나하나 지시하는 것이다.
 
 ---
 
@@ -186,7 +175,7 @@ Low Level Language는 “오른쪽 팔을 30cm 뻗고, 빗자루를 잡고, 앞�
 
 앞에서 본 것처럼 CPU는 기계어(Low Level)만 이해한다.
 
-사실상 우리가 컴퓨터에게 명령할 때는 
+사실상 우리가 컴퓨터에게 명령할 때는
 ”빗자루 위치를 보고, 거리를 재고, 어떻게 움직일지 생각하고 ….” 이렇게 명령을 내려야 한다
 
 하지만 고급언어는 이것을 “이 위치에 있는 빗자루 잡아.” 로 명령하면 저급언어에 비해 추상적으로 명령해도 동작하게 만들어져있다.
@@ -198,7 +187,7 @@ Low Level Language는 “오른쪽 팔을 30cm 뻗고, 빗자루를 잡고, 앞�
 그래서 사람은 읽고 쓰기 쉬운 High Level Language로 작성하고, 이를 **Low Level Language로 번역**하는 방식을 사용한다.
 
 이 번역을 해주는 프로그램이 바로 **컴파일러(Compiler)**다.
-Compilation & Interpretation (컴파일과 해석) 
+[Compilation & Interpretation (컴파일과 해석)](../compilation-interpretation/)
 
 ---
 
@@ -206,7 +195,7 @@ Compilation & Interpretation (컴파일과 해석)
 
 소스 코드가 실행 파일이 되기까지는 여러 단계를 거친다.
 
-<img src="../../../assets/articles/source-code/01-compilation-process.png" alt="Compilation-process" width="100%">
+<img src="../../../assets/articles/source-code/01-compilation-process.png" alt="C/C++ 소스 코드가 실행 파일로 변환되는 과정" width="100%">
 
 ---
 
@@ -218,4 +207,6 @@ Compilation & Interpretation (컴파일과 해석)
 
 결국 고급 언어가 저급 언어로 어떻게 변환되는지 알아야 **내가 짠 코드가 CPU에서 얼마나 많은 일을 하게 되는지 예측**할 수 있고, 이것이 고성능 코드를 설계하는 출발점이 된다.
 
-[← Back to System Components (시스템 구성 요소로 돌아가기)](../) · [System Overview (시스템 전체 흐름)](../../) · [MyPage_](../../../)
+---
+
+[← Back to Program Execution Flow (프로그램 실행 전체 흐름으로 돌아가기)](../) · [System Overview (시스템 전체 흐름)](../../) · [MyPage_](../../../)

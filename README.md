@@ -5,19 +5,19 @@
 <table>
   <tr>
     <td rowspan="2" width="40%" valign="top">
-      <a href="./01-programming-execution/06-programs-and-executables/executable/">
-        <img src="./assets/articles/executable/cover.png" alt="Executable (실행 파일)" width="100%">
+      <a href="./00-system-overview/02-program-execution-flow/source-code/">
+        <img src="./assets/articles/source-code/cover.png" alt="Source Code (소스 코드)" width="100%">
       </a>
     </td>
     <td width="60%" valign="top">
-      <sub>PROGRAMS &amp; EXECUTABLES (프로그램과 실행 파일) · 2026.09.11</sub><br>
-      <strong>Executable (실행 파일)</strong><br>
-      실행 파일의 생성부터 ABI 검증, 메모리 로딩과 런타임 초기화까지 실행 과정을 정리했다.
+      <sub>PROGRAM EXECUTION FLOW (프로그램 실행 전체 흐름) · 2026.09.21</sub><br>
+      <strong>Source Code (소스 코드)</strong><br>
+      소스 코드와 목적 코드, 고급·저급 언어의 관계와 C/C++의 컴파일·링크 과정을 정리했다.
     </td>
   </tr>
   <tr height="1">
     <td width="60%" height="1" valign="bottom">
-      <strong><a href="./01-programming-execution/06-programs-and-executables/executable/">Read Article (글 읽기) →</a></strong>
+      <strong><a href="./00-system-overview/02-program-execution-flow/source-code/">Read Article (글 읽기) →</a></strong>
     </td>
   </tr>
 </table>

@@ -4,7 +4,7 @@
 
 <a href="#subcategories-하위-카테고리"><img src="../assets/categories/00-system-overview.png" alt="00 . System Overview (시스템 전체 흐름)" width="100%" align="top"></a><a href="#subcategories-하위-카테고리"><img src="../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
-<sub>6 SUBCATEGORIES (하위 카테고리) · 4 ARTICLES (글)</sub>
+<sub>6 SUBCATEGORIES (하위 카테고리) · 5 ARTICLES (글)</sub>
 
 ## Subcategories (하위 카테고리)
 
@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td valign="middle">
-      <sub>SUBCATEGORY (하위 카테고리) 02 · 2 ARTICLES (글)</sub><br>
+      <sub>SUBCATEGORY (하위 카테고리) 02 · 3 ARTICLES (글)</sub><br>
       <strong>Program Execution Flow (프로그램 실행 전체 흐름)</strong><br><br>
     </td>
   </tr>
@@ -97,19 +97,19 @@
 <table>
   <tr>
     <td rowspan="2" width="40%" valign="top">
-      <a href="./01-system-components/firmware/">
-        <img src="../assets/articles/firmware/cover.png" alt="Firmware (펌웨어)" width="100%">
+      <a href="./02-program-execution-flow/source-code/">
+        <img src="../assets/articles/source-code/cover.png" alt="Source Code (소스 코드)" width="100%">
       </a>
     </td>
     <td width="60%" valign="top">
-      <sub>SYSTEM COMPONENTS (시스템 구성 요소) · 2026.09.09</sub><br>
-      <strong>Firmware (펌웨어)</strong><br>
-      펌웨어의 역할과 소프트웨어와의 차이, 부팅·하드웨어 제어 과정과 보안을 정리했다.
+      <sub>PROGRAM EXECUTION FLOW (프로그램 실행 전체 흐름) · 2026.09.21</sub><br>
+      <strong>Source Code (소스 코드)</strong><br>
+      소스 코드와 목적 코드, 고급·저급 언어의 관계와 C/C++의 컴파일·링크 과정을 정리했다.
     </td>
   </tr>
   <tr height="1">
     <td width="60%" height="1" valign="bottom">
-      <strong><a href="./01-system-components/firmware/">Read Article (글 읽기) →</a></strong>
+      <strong><a href="./02-program-execution-flow/source-code/">Read Article (글 읽기) →</a></strong>
     </td>
   </tr>
 </table>

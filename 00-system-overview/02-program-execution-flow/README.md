@@ -4,9 +4,29 @@
 
 <a href="#articles-글"><img src="../../assets/categories/00-system-overview.png" alt="Program Execution Flow (프로그램 실행 전체 흐름)" width="100%" align="top"></a><a href="#articles-글"><img src="../../assets/ui/view-category.png" alt="카테고리 보기" width="100%" align="top"></a>
 
-<sub>SUBCATEGORY (하위 카테고리) 02 · 2 ARTICLES (글)</sub>
+<sub>SUBCATEGORY (하위 카테고리) 02 · 3 ARTICLES (글)</sub>
 
 ## Articles (글)
+
+<table>
+  <tr>
+    <td rowspan="2" width="40%" valign="top">
+      <a href="./source-code/">
+        <img src="../../assets/articles/source-code/cover.png" alt="Source Code (소스 코드)" width="100%">
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <sub>PROGRAM EXECUTION FLOW (프로그램 실행 전체 흐름) · 2026.09.21</sub><br>
+      <strong>Source Code (소스 코드)</strong><br>
+      소스 코드와 목적 코드, 고급·저급 언어의 관계와 C/C++의 컴파일·링크 과정을 정리했다.
+    </td>
+  </tr>
+  <tr height="1">
+    <td width="60%" height="1" valign="bottom">
+      <strong><a href="./source-code/">Read Article (글 읽기) →</a></strong>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>

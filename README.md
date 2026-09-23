@@ -5,19 +5,19 @@
 <table>
   <tr>
     <td rowspan="2" width="40%" valign="top">
-      <a href="./00-system-overview/02-program-execution-flow/source-code/">
-        <img src="./assets/articles/source-code/cover.png" alt="Source Code (소스 코드)" width="100%">
+      <a href="./04-operating-systems/03-concurrency-and-synchronization/concurrency-parallelism/">
+        <img src="./assets/articles/concurrency-parallelism/cover.png" alt="Concurrency &amp; Parallelism (동시성과 병렬성)" width="100%">
       </a>
     </td>
     <td width="60%" valign="top">
-      <sub>PROGRAM EXECUTION FLOW (프로그램 실행 전체 흐름) · 2026.09.21</sub><br>
-      <strong>Source Code (소스 코드)</strong><br>
-      소스 코드와 목적 코드, 고급·저급 언어의 관계와 C/C++의 컴파일·링크 과정을 정리했다.
+      <sub>CONCURRENCY &amp; SYNCHRONIZATION (동시성·동기화) · 2026.09.23</sub><br>
+      <strong>Concurrency &amp; Parallelism (동시성과 병렬성)</strong><br>
+      동시성과 병렬성의 차이부터 CPU 스케줄링, 문맥 교환, I/O 대기, 경쟁 상태와 동기화까지 정리했다.
     </td>
   </tr>
   <tr height="1">
     <td width="60%" height="1" valign="bottom">
-      <strong><a href="./00-system-overview/02-program-execution-flow/source-code/">Read Article (글 읽기) →</a></strong>
+      <strong><a href="./04-operating-systems/03-concurrency-and-synchronization/concurrency-parallelism/">Read Article (글 읽기) →</a></strong>
     </td>
   </tr>
 </table>
